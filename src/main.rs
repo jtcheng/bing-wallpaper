@@ -1,14 +1,15 @@
-use bing_wallpaper::{get_today_wallpaper, update_readme, update_wallpaper};
-use std::error::Error;
+mod util;
+use crate::util::actions;
+use crate::util::wallpaper;
 
-fn main() -> Result<(), Box<dyn Error>> {
-    let wallpaper = match get_today_wallpaper() {
+fn main() -> Result<(), Box<dyn std::error::Error>> {
+    let wallpaper = match wallpaper::get_today_wallpaper() {
         Ok(wallpaper) => wallpaper,
         Err(err) => return Err(err),
     };
 
-    update_readme(&wallpaper)?;
-    update_wallpaper(&wallpaper)?;
+    actions::update_readme(&wallpaper)?;
+    actions::update_wallpaper(&wallpaper)?;
 
     Ok(())
 }
