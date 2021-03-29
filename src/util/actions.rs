@@ -1,7 +1,7 @@
 use super::wallpaper::Wallpaper;
 use std::error::Error;
 use std::fs::{self, OpenOptions};
-use std::io::{prelude::*, BufReader};
+use std::io::{prelude::*, BufReader, BufWriter};
 
 fn read_file_contents(fname: &str) -> Result<Vec<String>, Box<dyn Error>> {
     let file = OpenOptions::new()
@@ -46,17 +46,18 @@ pub fn update_readme(w: &Wallpaper) -> Result<(), Box<dyn Error>> {
     }
 
     {
-        let mut file = fs::File::create(temp)?;
+        let file = fs::File::create(temp)?;
+        let mut buf = BufWriter::new(file);
         for line in lines[..=3].iter() {
-            file.write_fmt(format_args!("{}\n", line))?;
+            buf.write_fmt(format_args!("{}\n", line))?;
         }
         for (index, line) in lines[4..].iter().enumerate() {
             if index % 3 == 0 {
-                file.write_all(b"|")?;
+                buf.write_all(b"|")?;
             }
-            file.write_fmt(format_args!("{}|", line))?;
+            buf.write_fmt(format_args!("{}|", line))?;
             if index % 3 == 2 {
-                file.write_all(b"\n")?;
+                buf.write_all(b"\n")?;
             }
         }
     }
@@ -75,12 +76,13 @@ pub fn update_wallpaper(w: &Wallpaper) -> Result<(), Box<dyn Error>> {
     };
 
     {
-        let mut file = fs::File::create(temp)?;
-        file.write_fmt(format_args!("{}\n", "## Bing Wallpaper"))?;
-        file.write_fmt(format_args!("{}\n", w.to_markdown()))?;
+        let file = fs::File::create(temp)?;
+        let mut buf = BufWriter::new(file);
+        buf.write_fmt(format_args!("{}\n", "## Bing Wallpaper"))?;
+        buf.write_fmt(format_args!("{}\n", w.to_markdown()))?;
         if !contents.is_empty() {
             for line in contents[1..].iter() {
-                file.write_fmt(format_args!("{}\n", line))?;
+                buf.write_fmt(format_args!("{}\n", line))?;
             }
         }
     }
