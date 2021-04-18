@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20210418 | [New River Gorge Bridge in the New River Gorge National Park and Preserve, West Virginia (© Entropy Workshop/iStock/Getty Images Plus)](https://cn.bing.com/th?id=OHR.NewRiverGorge_EN-US7524399883_UHD.jpg)  
 20210417 | [Dalí Theatre-Museum in Figueres, Spain (© Valerija Polakovska/Shutterstock)](https://cn.bing.com/th?id=OHR.DaliMuseum_EN-US9901160892_UHD.jpg)  
 20210416 | [Jackie Robinson signs autographs at spring training in Ciudad Trujillo, now Santo Domingo, Dominican Republic, on March 6, 1948 (© Bettmann/Getty Images)](https://cn.bing.com/th?id=OHR.JackieRobinson_EN-US7103495692_UHD.jpg)  
 20210415 | [Wildflowers in the Carrizo Plain National Monument, California (© Dennis Frates/Alamy)](https://cn.bing.com/th?id=OHR.CarrizoPlain_EN-US7034817036_UHD.jpg)  
