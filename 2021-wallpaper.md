@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20210615 | [The George Washington Bridge displays the American flag in honor of Flag Day, June 14, 2016, Fort Lee, New Jersey (© Robert D. Barnes/Getty Images)](https://cn.bing.com/th?id=OHR.LargestFlag_EN-US9248418324_UHD.jpg)  
 20210614 | [Eurasian brown bear cub in the taiga forest, Finland (© Jules Cox/Minden Pictures)](https://cn.bing.com/th?id=OHR.FinlandBrownBear_EN-US9193102113_UHD.jpg)  
 20210613 | [View of the Rio Grande in Big Bend National Park, Texas (© Ian Shive/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.BBNPGrande_EN-US9017603902_UHD.jpg)  
 20210612 | [Small loch in Glen Etive, Scotland (© Oliver Hellowell/Minden Pictures)](https://cn.bing.com/th?id=OHR.GlenEtive_EN-US8902001915_UHD.jpg)  
