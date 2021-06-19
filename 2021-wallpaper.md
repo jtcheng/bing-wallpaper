@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20210619 | [Aerial view of Chapel Bridge over the River Reuss in Lucerne, Switzerland (© Neleman Initiative/Gallery Stock)](https://cn.bing.com/th?id=OHR.ReussRiver_EN-US4195043036_UHD.jpg)  
 20210618 | [Bright Eye sea cave on the Nā Pali Coast, Kauai, Hawaii (© jimkruger/Getty Images)](https://cn.bing.com/th?id=OHR.BrightEye_EN-US9581825024_UHD.jpg)  
 20210617 | [Green sea turtle diving, Great Barrier Reef, Queensland, Australia (© imageBROKER/Alamy)](https://cn.bing.com/th?id=OHR.GBRTurtle_EN-US9472992921_UHD.jpg)  
 20210616 | [Aerial view of volcanic Lake Pinatubo and mountains, Luzon, Philippines (© Amazing Aerial Agency/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.LakePinatubo_EN-US8170111215_UHD.jpg)  
