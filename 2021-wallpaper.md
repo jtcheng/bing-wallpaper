@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20210626 | [Empress brilliant hummingbird and a bee in Colombia (© Jiri Hrebicek/Alamy)](https://cn.bing.com/th?id=OHR.Heliodoxa_EN-US5338295561_UHD.jpg)  
 20210625 | [Caribou in Denali National Park and Preserve, Alaska (© Design Pics/Danita Delimont)](https://cn.bing.com/th?id=OHR.DenaliCaribou_EN-US5229911845_UHD.jpg)  
 20210623 | [Seljalandsfoss waterfall in the South Region of Iceland (© Tom Mackie/plainpicture)](https://cn.bing.com/th?id=OHR.SouthCoast_EN-US4824290612_UHD.jpg)  
 20210622 | [Rothschild's giraffe in Lake Nakuru National Park, Kenya (© Theo Allofs/Minden Pictures)](https://cn.bing.com/th?id=OHR.RothschildGiraffe_EN-US4621962761_UHD.jpg)  
