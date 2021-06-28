@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20210628 | [Lincoln Center for the Performing Arts lit in Pride colors on June 18, 2020 in New York City (© Alexi Rosenfeld/Getty Images)](https://cn.bing.com/th?id=OHR.LCPAPride_EN-US5979726065_UHD.jpg)  
 20210627 | [Glass sightseeing platform in Shilinxia Scenic Area, Pinggu District of Beijing, China (© STR/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.Shilinxia_EN-US5445196689_UHD.jpg)  
 20210626 | [Empress brilliant hummingbird and a bee in Colombia (© Jiri Hrebicek/Alamy)](https://cn.bing.com/th?id=OHR.Heliodoxa_EN-US5338295561_UHD.jpg)  
 20210625 | [Caribou in Denali National Park and Preserve, Alaska (© Design Pics/Danita Delimont)](https://cn.bing.com/th?id=OHR.DenaliCaribou_EN-US5229911845_UHD.jpg)  
