@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20210701 | [Manicouagan Crater in Québec, Canada (© Universal History Archive/Universal Images Group via Getty Images)](https://cn.bing.com/th?id=OHR.Manicouagan_EN-US7701393606_UHD.jpg)  
 20210630 | [Rocks on Anse Source d'Argent beach, La Digue Island, Seychelles (© Roland Gerth/eStock Photo)](https://cn.bing.com/th?id=OHR.RocksSeychelles_EN-US7406548278_UHD.jpg)  
 20210629 | [The Cittadella on the island of Gozo, Malta (© Davide Seddio/Getty Images)](https://cn.bing.com/th?id=OHR.Cittadella_EN-US6067516722_UHD.jpg)  
 20210628 | [Lincoln Center for the Performing Arts lit in Pride colors on June 18, 2020 in New York City (© Alexi Rosenfeld/Getty Images)](https://cn.bing.com/th?id=OHR.LCPAPride_EN-US5979726065_UHD.jpg)  
