@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20210703 | [A meerkat in Namibia (© Danita Delimont/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.ShyFive_EN-US4337641438_UHD.jpg)  
 20210702 | ['Passage migratoire' ('Migratory Passage'), an art installation by Giorgia Volpe in Old Québec City, Québec, Canada (© Lucbouch/Getty Images)](https://cn.bing.com/th?id=OHR.HangingCanoes_EN-US0235160370_UHD.jpg)  
 20210701 | [Manicouagan Crater in Québec, Canada (© Universal History Archive/Universal Images Group via Getty Images)](https://cn.bing.com/th?id=OHR.Manicouagan_EN-US7701393606_UHD.jpg)  
 20210630 | [Rocks on Anse Source d'Argent beach, La Digue Island, Seychelles (© Roland Gerth/eStock Photo)](https://cn.bing.com/th?id=OHR.RocksSeychelles_EN-US7406548278_UHD.jpg)  
