@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20210720 | [Colorful alleyway in the medina of Tétouan, Morocco (© Jan Wlodarczyk/eStock Photo)](https://cn.bing.com/th?id=OHR.Tetouan_EN-US7379560261_UHD.jpg)  
 20210719 | [Tour de France riders in front of the Louvre Pyramid and Museum in Paris, France, during the 2020 race (© Martin Bureau/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.LouvreRiders_EN-US7293709223_UHD.jpg)  
 20210718 | [A Loepa oberthuri moth (© Robert Thompson/Minden Pictures)](https://cn.bing.com/th?id=OHR.LoepaOberthuri_EN-US7208560265_UHD.jpg)  
 20210717 | [Mont Choisy Beach, Mauritius (© Robert Harding World Imagery/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.MontChoisy_EN-US7121697055_UHD.jpg)  
