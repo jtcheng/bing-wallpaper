@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20210723 | [The Minokake-Iwa rocks off the coast of the Izu Peninsula, Japan (© Krzysztof Baranowski/Getty Images)](https://cn.bing.com/th?id=OHR.MinokakeRocks_EN-US9026307089_UHD.jpg)  
 20210722 | [Castel del Monte, Apulia, Italy (© Toni Spagone/Alamy)](https://cn.bing.com/th?id=OHR.CasteldelMonte_EN-US0394527485_UHD.jpg)  
 20210721 | [Composite image of the moon (© Prathamesh Jaju)](https://cn.bing.com/th?id=OHR.PrathameshJaju_EN-US8876008160_UHD.jpg)  
 20210720 | [Colorful alleyway in the medina of Tétouan, Morocco (© Jan Wlodarczyk/eStock Photo)](https://cn.bing.com/th?id=OHR.Tetouan_EN-US7379560261_UHD.jpg)  
