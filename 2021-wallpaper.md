@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20210725 | [Javan tree frogs sitting together on a stalk in Indonesia (© SnapRapid/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.JavanCousins_EN-US9214957907_UHD.jpg)  
 20210724 | [Tokyo Tower in Minato City, Tokyo, Japan (© Yukinori Hasumi/Getty Images)](https://cn.bing.com/th?id=OHR.TokyoMetropolis_EN-US9112375652_UHD.jpg)  
 20210723 | [The Minokake-Iwa rocks off the coast of the Izu Peninsula, Japan (© Krzysztof Baranowski/Getty Images)](https://cn.bing.com/th?id=OHR.MinokakeRocks_EN-US9026307089_UHD.jpg)  
 20210722 | [Castel del Monte, Apulia, Italy (© Toni Spagone/Alamy)](https://cn.bing.com/th?id=OHR.CasteldelMonte_EN-US0394527485_UHD.jpg)  
