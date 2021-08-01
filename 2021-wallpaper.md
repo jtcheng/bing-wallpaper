@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20210801 | [Northern carmine and European bee-eaters in Mkomazi National Park, Tanzania (© webguzs/Getty Images)](https://cn.bing.com/th?id=OHR.TanzaniaBeeEater_EN-US6785378427_UHD.jpg)  
 20210731 | [Otter Cliffs, Acadia National Park, Maine (© dbimages/Alamy)](https://cn.bing.com/th?id=OHR.OtterCliff_EN-US6679872579_UHD.jpg)  
 20210730 | [Tiger camouflaged in tall grass, Assam, India (© Sandesh Kadur/Minden Pictures)](https://cn.bing.com/th?id=OHR.PantheraTigris_EN-US9729163497_UHD.jpg)  
 20210729 | [School of sea goldies with feather stars, Great Barrier Reef, Queensland, Australia (© Gary Bell/Minden Pictures)](https://cn.bing.com/th?id=OHR.SeaGoldie_EN-US9625167980_UHD.jpg)  
