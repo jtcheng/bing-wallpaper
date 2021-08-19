@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20210819 | [The Old Town of Dubrovnik, Croatia (© Jeremy Woodhouse/Getty Images)](https://cn.bing.com/th?id=OHR.RedRoofTile_EN-US7950086465_UHD.jpg)  
 20210818 | [Stairway to Heaven trail in Wawayanda State Park, New Jersey (© Leembe/Getty Images)](https://cn.bing.com/th?id=OHR.PochuckValley_EN-US7792130272_UHD.jpg)  
 20210817 | [Silhouette of Shambhala roller coaster at sunset in PortAventura Park, Salou, Tarragona, Spain (© Joaquim F. P./Getty Images)](https://cn.bing.com/th?id=OHR.PortAventura_EN-US7476980187_UHD.jpg)  
 20210816 | [Strandbad Tiefenbrunnen, a public pool on the shore of Lake Zürich, Switzerland (© Amazing Aerial Agency/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.StrandbadTiefenbrunnen_EN-US6967556801_UHD.jpg)  
