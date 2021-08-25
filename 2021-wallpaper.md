@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20210825 | [Old surfboards lined up as a fence near Paia, Maui, Hawaii (© Matt Anderson Photography/Getty Images)](https://cn.bing.com/th?id=OHR.HippieTown_EN-US1026712176_UHD.jpg)  
 20210824 | [Little blue heron in Cuba (© Sergey Uryadnikov/Alamy)](https://cn.bing.com/th?id=OHR.LittleBlueHeron_EN-US0980028207_UHD.jpg)  
 20210823 | [The shoreline of Olympic Coast National Marine Sanctuary, Washington state (© Chris Moore/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.OlympicCoast_EN-US0864284151_UHD.jpg)  
 20210822 | [Petit Minou Lighthouse in the roadstead of Brest, Finistère, France (© Mathieu Rivrin/Getty Images)](https://cn.bing.com/th?id=OHR.PetitMinou_EN-US0740676794_UHD.jpg)  
