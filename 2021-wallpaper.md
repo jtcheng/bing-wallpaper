@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20210904 | [The 'Alien Egg Hatchery' in the Bisti/De-Na-Zin Wilderness, New Mexico (© Ian Shive/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.AlienEggs_EN-US2920727413_UHD.jpg)  
 20210903 | [Porto Flavia, Sardinia, Italy (© Visualframing/Adobe Stock)](https://cn.bing.com/th?id=OHR.PortoFlavia_EN-US2814580222_UHD.jpg)  
 20210902 | [A porcini mushroom (© vnosokin/Getty Images)](https://cn.bing.com/th?id=OHR.Porcini_EN-US2729999043_UHD.jpg)  
 20210901 | [Đurđevića Tara Bridge in Montenegro (© Hike The World/Shutterstock)](https://cn.bing.com/th?id=OHR.DjurdjevicaBridge_EN-US2627065806_UHD.jpg)  
