@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20210922 | ['Rising Moon' lantern to celebrate the Mid-Autumn Festival in Hong Kong's Victoria Park (© Bobby Yip/Reuters)](https://cn.bing.com/th?id=OHR.RisingMoon_EN-US3728383001_UHD.jpg)  
 20210921 | [Starlings in the wetlands between Denmark and Germany (© Viking/Alamy)](https://cn.bing.com/th?id=OHR.BlackSun_EN-US3611441755_UHD.jpg)  
 20210920 | [Le Castella at Capo Rizzuto, Italy (© mRGB/Shutterstock)](https://cn.bing.com/th?id=OHR.LeCastella_EN-US3410369495_UHD.jpg)  
 20210919 | [Red panda at the Chengdu Panda Base in Sichuan province, China (© Biosphoto/Alamy)](https://cn.bing.com/th?id=OHR.Firefox_EN-US3200029768_UHD.jpg)  
