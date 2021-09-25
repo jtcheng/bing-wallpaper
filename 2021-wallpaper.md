@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20210925 | [Cusco Cathedral on the Plaza de Armas, Cusco, Peru (© sharptoyou/Shutterstock)](https://cn.bing.com/th?id=OHR.CuscoCathedral_EN-US0974073247_UHD.jpg)  
 20210924 | [Neptune (© NASA/JPL)](https://cn.bing.com/th?id=OHR.BrilliantBlue_EN-US4447486564_UHD.jpg)  
 20210923 | [Baby white rhinoceros and mother in Hluhluwe–iMfolozi Park, South Africa (© Martin Harvey/Alamy)](https://cn.bing.com/th?id=OHR.BabyRhino_EN-US4289854732_UHD.jpg)  
 20210922 | ['Rising Moon' lantern to celebrate the Mid-Autumn Festival in Hong Kong's Victoria Park (© Bobby Yip/Reuters)](https://cn.bing.com/th?id=OHR.RisingMoon_EN-US3728383001_UHD.jpg)  
