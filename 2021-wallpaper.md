@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20211004 | [The Roman amphitheater of Itálica, near Seville, Spain (© Amazing Aerial Agency/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.Italica_EN-US1640838317_UHD.jpg)  
 20211003 | [The Ivishak River in the North Slope of Alaska (© Don Paulson/Danita Delimont)](https://cn.bing.com/th?id=OHR.IvishakRiver_EN-US1566710821_UHD.jpg)  
 20211002 | [Hyacinth macaws in the Pantanal region of Brazil (© David Pattyn/Minden Pictures)](https://cn.bing.com/th?id=OHR.HyacinthMacaws_EN-US1453969015_UHD.jpg)  
 20211001 | [Container ship in San Pedro, California (© Cameron Venti/Getty Images)](https://cn.bing.com/th?id=OHR.ContainerShip_EN-US1397689577_UHD.jpg)  
