@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20211006 | [Kindergarteners drawing on canvases in Nantong, Jiangsu province, China (© Xu Hui/VCG via Getty Images)](https://cn.bing.com/th?id=OHR.Kindergarteners_EN-US1789862407_UHD.jpg)  
 20211005 | [Andromeda galaxy (© NASA/JPL-Caltech)](https://cn.bing.com/th?id=OHR.Andromeda_EN-US1720805317_UHD.jpg)  
 20211004 | [The Roman amphitheater of Itálica, near Seville, Spain (© Amazing Aerial Agency/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.Italica_EN-US1640838317_UHD.jpg)  
 20211003 | [The Ivishak River in the North Slope of Alaska (© Don Paulson/Danita Delimont)](https://cn.bing.com/th?id=OHR.IvishakRiver_EN-US1566710821_UHD.jpg)  
