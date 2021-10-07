@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20211007 | [Dallas Divide in southwest Colorado (© Ronda Kimbrow/Shutterstock)](https://cn.bing.com/th?id=OHR.SWColorado_EN-US1870553135_UHD.jpg)  
 20211006 | [Kindergarteners drawing on canvases in Nantong, Jiangsu province, China (© Xu Hui/VCG via Getty Images)](https://cn.bing.com/th?id=OHR.Kindergarteners_EN-US1789862407_UHD.jpg)  
 20211005 | [Andromeda galaxy (© NASA/JPL-Caltech)](https://cn.bing.com/th?id=OHR.Andromeda_EN-US1720805317_UHD.jpg)  
 20211004 | [The Roman amphitheater of Itálica, near Seville, Spain (© Amazing Aerial Agency/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.Italica_EN-US1640838317_UHD.jpg)  
