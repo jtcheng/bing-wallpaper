@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20211018 | [Redwood Memorial Grove in Whakarewarewa Forest, North Island, New Zealand (© Michael Breitung/Huber/eStock Photo)](https://cn.bing.com/th?id=OHR.Whakarewarewa_EN-US8308750685_UHD.jpg)  
 20211017 | [Aerial view of the Temple of Hatshepsut near Luxor, Egypt (© Ratnakorn Piyasirisorost/Moment/Getty Images)](https://cn.bing.com/th?id=OHR.Hatshepsut_EN-US8201096209_UHD.jpg)  
 20211016 | [Farra di Soligo in the Prosecco Hills of Veneto, Italy (© Olimpio Fantuz/Sime/eStock Photo)](https://cn.bing.com/th?id=OHR.ProseccoHills_EN-US8117168542_UHD.jpg)  
 20211015 | [Saguaro 'family' and Milky Way, Saguaro National Park, Arizona (© Christian Foto Az/Shutterstock)](https://cn.bing.com/th?id=OHR.SaguaroFamily_EN-US8027040926_UHD.jpg)  
