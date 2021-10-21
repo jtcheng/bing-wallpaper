@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20211021 | [Brown-throated three-toed sloth in Manuel Antonio National Park, Costa Rica (© Lukas Kovarik/Shutterstock)](https://cn.bing.com/th?id=OHR.SmileySloth_EN-US8588687884_UHD.jpg)  
 20211020 | [The Fanal Forest on Madeira Island, Portugal (© Val Thoermer/Alamy)](https://cn.bing.com/th?id=OHR.FanalMadeira_EN-US8481108715_UHD.jpg)  
 20211019 | [Capel Curig in Snowdonia National Park, Wales, United Kingdom (© Sebastian Wasek/Sime/eStock Photo)](https://cn.bing.com/th?id=OHR.CapelCurig_EN-US8402685568_UHD.jpg)  
 20211018 | [Redwood Memorial Grove in Whakarewarewa Forest, North Island, New Zealand (© Michael Breitung/Huber/eStock Photo)](https://cn.bing.com/th?id=OHR.Whakarewarewa_EN-US8308750685_UHD.jpg)  
