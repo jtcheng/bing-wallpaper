@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20211025 | [Bavljenac Island, Croatia (© Julien Duval/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.Bavljenac_EN-US8692148480_UHD.jpg)  
 20211024 | [Eurasian scops owl in Bohemian Switzerland National Park, Czech Republic (© Milan Zygmunt/Alamy)](https://cn.bing.com/th?id=OHR.ScopsOwl_EN-US4553071921_UHD.jpg)  
 20211023 | [Comet NEOWISE streaks across the sky over Sunwapta Lake in Jasper National Park, Alberta, Canada (© Stocktrek Images, Inc./Alamy)](https://cn.bing.com/th?id=OHR.Neowise_EN-US4428390515_UHD.jpg)  
 20211022 | [Bald cypress and Spanish moss in the Atchafalaya Basin, Louisiana (© Chris Moore/Exploring Light Photography/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.AtchafalayaMoss_EN-US8649119304_UHD.jpg)  
