@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20211028 | [A pumpkin patch in Newton, Massachusetts (© Frank Debonis/EyeEm/Alamy)](https://cn.bing.com/th?id=OHR.NewtonPumpkins_EN-US4897949591_UHD.jpg)  
 20211027 | [Red fox in the Black Forest of Germany (© Klaus Echle/Minden Pictures)](https://cn.bing.com/th?id=OHR.RedFoxBlackForest_EN-US4823848176_UHD.jpg)  
 20211026 | [Dyavolski Most (Devil's Bridge) over the Arda River in Bulgaria (© Petar Mladenov/Alamy)](https://cn.bing.com/th?id=OHR.BulgariaDevilBridge_EN-US4705163344_UHD.jpg)  
 20211025 | [Bavljenac Island, Croatia (© Julien Duval/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.Bavljenac_EN-US8692148480_UHD.jpg)  
