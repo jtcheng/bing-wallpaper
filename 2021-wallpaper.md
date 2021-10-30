@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20211030 | [Ravens in Juneau, Alaska (© Brian Browitt Photo/Adobe Stock)](https://cn.bing.com/th?id=OHR.UnkindnessRavens_EN-US5051823062_UHD.jpg)  
 20211029 | [Necropolis near Dargavs, North Ossetia, Russia (© Yakov Oskanov/Shutterstock)](https://cn.bing.com/th?id=OHR.Dargavs_EN-US4957085337_UHD.jpg)  
 20211028 | [A pumpkin patch in Newton, Massachusetts (© Frank Debonis/EyeEm/Alamy)](https://cn.bing.com/th?id=OHR.NewtonPumpkins_EN-US4897949591_UHD.jpg)  
 20211027 | [Red fox in the Black Forest of Germany (© Klaus Echle/Minden Pictures)](https://cn.bing.com/th?id=OHR.RedFoxBlackForest_EN-US4823848176_UHD.jpg)  
