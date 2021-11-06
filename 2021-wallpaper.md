@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20211106 | [Pont Rouge (Red Bridge) over the Palmer River in Sainte-Agathe-de-Lotbinière, Quebec, Canada (© Jean Surprenant/Getty Images)](https://cn.bing.com/th?id=OHR.PontRouge_EN-US8216026982_UHD.jpg)  
 20211105 | [Lanterns illuminated for the Diwali festival, Mumbai, India (© RAMNIKLAL MODI/Shutterstock)](https://cn.bing.com/th?id=OHR.DiwaliLights_EN-US5962582715_UHD.jpg)  
 20211104 | [Moon jelly and golden jellyfish, Raja Ampat, West Papua, Indonesia (© Alex Mustard/Minden Pictures)](https://cn.bing.com/th?id=OHR.MoonJellyDay_EN-US5774626244_UHD.jpg)  
 20211103 | [Marigolds decorate a cemetery in Patzcuaro, Michoacan, Mexico, for a Day of the Dead ceremony (© Daniel Elizalde S/Shutterstock)](https://cn.bing.com/th?id=OHR.MarigoldsLosMuertos_EN-US5597948262_UHD.jpg)  
