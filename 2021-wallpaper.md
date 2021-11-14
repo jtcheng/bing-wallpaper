@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20211114 | [Aerial view of El Tajo gorge and the Puente Nuevo bridge in Ronda, Málaga, Spain (© Jude Newkirk/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.ElTajo_EN-US9027914209_UHD.jpg)  
 20211113 | [Beavers Bend Resort Park near Broken Bow, Oklahoma (© Inge Johnsson/Alamy)](https://cn.bing.com/th?id=OHR.BeaversBend_EN-US8963318493_UHD.jpg)  
 20211112 | [Service members on the amphibious assault ship USS Iwo Jima on New York's Hudson River during Veterans Week, 2016 (© Apple White/Alamy)](https://cn.bing.com/th?id=OHR.Veterans2021_EN-US8913164564_UHD.jpg)  
 20211111 | [Cumberland Island National Seashore, Georgia (© Wilsilver77/Getty Images Plus)](https://cn.bing.com/th?id=OHR.CumberlandSeashore_EN-US8862017440_UHD.jpg)  
