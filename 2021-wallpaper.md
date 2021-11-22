@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20211122 | [Forest near the village of Invergarry, Scotland (© Matt Anderson Photography/Getty Images)](https://cn.bing.com/th?id=OHR.Invergarry_EN-US5187949443_UHD.jpg)  
 20211121 | ['A New Breath' by artist Saype in Moléson-sur-Gruyères, Switzerland (© Valentin Flauraud/Shutterstock)](https://cn.bing.com/th?id=OHR.NewBreath_EN-US9754279186_UHD.jpg)  
 20211120 | [The Subway slot canyon in Zion National Park, Utah (© Stan Moniz/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.LeftForkNorth_EN-US4970545518_UHD.jpg)  
 20211119 | [Bohemian Switzerland National Park near Tisá, Czech Republic (© Amazing Aerial Agency/Offset)](https://cn.bing.com/th?id=OHR.TisaBohemian_EN-US4154092405_UHD.jpg)  
