@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20211126 | [Red squirrels in Cairngorms National Park, Highlands, Scotland (© Scotland: The Big Picture/Minden Pictures)](https://cn.bing.com/th?id=OHR.SquirrelsCairngorms_EN-US5854811896_UHD.jpg)  
 20211125 | [Chocolate Hills in Bohol, Philippines (© Danita Delimont/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.ChocoHillBohol_EN-US5790786094_UHD.jpg)  
 20211124 | [Cross-section of a fossilized ammonite shell (© Marianna Armata/Getty Images)](https://cn.bing.com/th?id=OHR.AmmoniteShell_EN-US5528406530_UHD.jpg)  
 20211123 | [Irohazaka road near Nikkō, Japan (© LightRecords/Shutterstock)](https://cn.bing.com/th?id=OHR.IrohazakaRoad_EN-US5310275011_UHD.jpg)  
