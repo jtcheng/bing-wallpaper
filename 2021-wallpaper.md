@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20211202 | [Blue icebergs near Cuverville Island, Antarctica (© Mike Hill/Getty Images)](https://cn.bing.com/th?id=OHR.CuvervilleIsland_EN-US6408758499_UHD.jpg)  
 20211201 | [African bush elephants at Masai Mara National Reserve in Kenya (© Yva Momatiuk and John Eastcott/Minden Pictures)](https://cn.bing.com/th?id=OHR.ElephantGiving_EN-US6321886502_UHD.jpg)  
 20211130 | [Aerial view of snowy peaks of Vinicunca (aka Rainbow Mountain), Peru (© Jude Newkirk/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.RainbowMountain_EN-US6261660627_UHD.jpg)  
 20211129 | [Centennial Bridge towering above Soberanía National Park, Panama (© David Tipling/Universal Images Group via Getty Images)](https://cn.bing.com/th?id=OHR.CentennialBridge_EN-US6155436919_UHD.jpg)  
