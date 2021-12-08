@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20211208 | [US Navy sailors on the WWII museum ship USS Bowfin in Honolulu, Hawaii (© US Navy Photo/Alamy)](https://cn.bing.com/th?id=OHR.USSBowfin_EN-US9736688640_UHD.jpg)  
 20211207 | [An 1840 design for the Analytical Engine by Charles Babbage (© Science & Society Picture Library/Getty Images)](https://cn.bing.com/th?id=OHR.DesignDrawing_EN-US9669742568_UHD.jpg)  
 20211206 | [The Salzach River in Salzburg, Austria (© MacEaton/Alamy)](https://cn.bing.com/th?id=OHR.SalzburgKrampus_EN-US9186815435_UHD.jpg)  
 20211205 | [Mother cheetah and her cub in the Masai Mara National Reserve, Kenya (© gudkovandrey/Adobe Stock)](https://cn.bing.com/th?id=OHR.MotherCheetah_EN-US8957244847_UHD.jpg)  
