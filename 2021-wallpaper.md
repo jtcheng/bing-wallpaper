@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20211213 | [Wicker fields in Cañamares, Spain (© David Santiago Garcia/Alamy)](https://cn.bing.com/th?id=OHR.WickerCultivation_EN-US0445418085_UHD.jpg)  
 20211212 | [The shadow of Mount Everest over the western Himalayas in Nepal (© Kent Karvey/KH Films, Inc./Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.ShadowEverest_EN-US0301475882_UHD.jpg)  
 20211211 | [Arctic fox in Dovrefjell-Sunndalsfjella National Park, Norway (© Andy Trowbridge/Minden Pictures)](https://cn.bing.com/th?id=OHR.FoxDovrefjell_EN-US0110441003_UHD.jpg)  
 20211210 | [Glowworms in Blue Mountains National Park, Australia (© Leelakajonkij/Getty Images)](https://cn.bing.com/th?id=OHR.GlowWormBMNP_EN-US9968994144_UHD.jpg)  
