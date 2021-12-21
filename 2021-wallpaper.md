@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20211221 | [Performers from the Ministry of Fun Santa School in London, England (© Matt Dunham/AP Photo)](https://cn.bing.com/th?id=OHR.MinistryofFun_EN-US1476020471_UHD.jpg)  
 20211220 | [Aurora borealis above the Brooks Range in Alaska (© Noppawat Tom Charoensinphon/Getty Images)](https://cn.bing.com/th?id=OHR.AtigunPassAurora_EN-US1398930278_UHD.jpg)  
 20211219 | [The December full moon seen through holiday lights (© Jesus Merida/Getty Images)](https://cn.bing.com/th?id=OHR.MoonBeforeYule_EN-US1324527438_UHD.jpg)  
 20211218 | [Christmas-themed beach huts in Bournemouth, England (© Allouphoto/Alamy)](https://cn.bing.com/th?id=OHR.XmasBeachHuts_EN-US1205413660_UHD.jpg)  
