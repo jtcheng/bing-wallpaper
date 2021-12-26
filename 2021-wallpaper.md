@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20211226 | [Trees on the northern slope of Mount Khomyak in the Carpathian Mountains, Ukraine (© panaramka/Getty Images)](https://cn.bing.com/th?id=OHR.KhomyakMountain_EN-US1885920810_UHD.jpg)  
 20211225 | [Christmas tree at Weissensee, a small lake near Ehrwald in Tyrol, Austria (© nagelestock/Alamy)](https://cn.bing.com/th?id=OHR.Rauchnachte_EN-US1813952832_UHD.jpg)  
 20211224 | [Two young male polar bears, Churchill, Manitoba, Canada (© Cheryl Ramalho/Getty Images)](https://cn.bing.com/th?id=OHR.ManitobaBears_EN-US1696173596_UHD.jpg)  
 20211223 | [Winter scene illuminated on the Palais de l'Isle in Annecy, Haute Savoie, France (© blickwinkel/Alamy)](https://cn.bing.com/th?id=OHR.AnnecyFrance_EN-US1633083371_UHD.jpg)  
