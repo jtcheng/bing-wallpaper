@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20211230 | [Mountain goats in the Yukon, Canada (© Mark Newman/Getty Images)](https://cn.bing.com/th?id=OHR.OreamnosAmericanus_EN-US2195826157_UHD.jpg)  
 20211229 | [Kjell Henriksen Observatory in Svalbard, Norway (© Vincent Fournier/Gallery Stock)](https://cn.bing.com/th?id=OHR.KjellHenriksen_EN-US2132845054_UHD.jpg)  
 20211228 | [Snow buntings flock during a snowstorm in New York (© Marie Read/Minden Pictures)](https://cn.bing.com/th?id=OHR.SnowBuntings_EN-US2049981598_UHD.jpg)  
 20211227 | [Royal Pavilion Ice Rink in Brighton, England (© Chris Gorman/Getty Images)](https://cn.bing.com/th?id=OHR.RPIR_EN-US1987126650_UHD.jpg)  
