@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20220110 | [Rice laid out to dry in Dhamrai, Dhaka, Bangladesh (© Amazing Aerial Agency/Offset by Shutterstock)](https://cn.bing.com/th?id=OHR.RiceBangladesh_EN-US1519717699_UHD.jpg)  
 20220109 | [American bison in Yellowstone National Park, Wyoming (© Steve Gettle/Minden Pictures)](https://cn.bing.com/th?id=OHR.WinterBison_EN-US1438810655_UHD.jpg)  
 20220108 | [Nazaré Lighthouse atop Forte de São Miguel Arcanjo, Nazaré, Portugal (© Richard A Lock/Getty Images)](https://cn.bing.com/th?id=OHR.FortedeSao_EN-US1357701666_UHD.jpg)  
 20220107 | [Kochelsee and Heimgarten Mountain in Bavaria, Germany (© Reinhard Schmid/eStock Photo)](https://cn.bing.com/th?id=OHR.LakeKochelsee_EN-US1286605700_UHD.jpg)  
