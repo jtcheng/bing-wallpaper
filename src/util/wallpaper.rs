@@ -38,15 +38,16 @@ impl Wallpaper {
     }
 }
 
-pub fn get_today_wallpaper() -> Result<Wallpaper, Box<dyn std::error::Error>> {
+pub fn get_wallpaper() -> Result<Wallpaper, Box<dyn std::error::Error>> {
     const BING_API: &str = "https://cn.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&nc=1615276059126&pid=hp&FORM=BEHPTB&uhd=1&uhdwidth=3840&uhdheight=2160";
     const BING_URL: &str = "https://cn.bing.com";
 
     let resp = reqwest::blocking::get(BING_API)?.json::<serde_json::Value>()?;
     let json = &resp["images"][0];
+    let url = json["url"].as_str().unwrap();
 
     Ok(Wallpaper::new(
-        BING_URL.to_string() + json["url"].as_str().unwrap().splitn(2, '&').next().unwrap(),
+        BING_URL.to_string() + url.split_once('&').map_or(url, |x| x.0),
         json["enddate"].as_str().unwrap().to_string(),
         json["copyright"].as_str().unwrap().to_string(),
     ))
