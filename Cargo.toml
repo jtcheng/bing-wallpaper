@@ -2,7 +2,7 @@
 name = "bing-wallpaper"
 version = "0.1.0"
 authors = ["jtcheng <jtcheng@cqu.edu.cn>"]
-edition = "2018"
+edition = "2021"
 
 [[bin]]
 name = "bwp"
