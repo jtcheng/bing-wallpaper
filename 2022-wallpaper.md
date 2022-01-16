@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20220116 | [To Sua Ocean Trench on the south coast of Upolu Island in Samoa (© Chris McLennan/Alamy)](https://cn.bing.com/th?id=OHR.BigHole_EN-US0665897807_UHD.jpg)  
 20220115 | [The road leading to Sa Calobra on the Spanish Balearic island of Majorca (© Tolo Balaguer/agefotostock)](https://cn.bing.com/th?id=OHR.SaCalobra_EN-US0398649435_UHD.jpg)  
 20220114 | [Northern lights over a stranded boat in Tasiilaq, Greenland (© Shane P. White/Minden Pictures)](https://cn.bing.com/th?id=OHR.TasiilaqAurora_EN-US1844697925_UHD.jpg)  
 20220113 | [Mount Fanjing in southwest China (© zhuxiaophotography/Shutterstock)](https://cn.bing.com/th?id=OHR.FanjingStairs_EN-US7395504080_UHD.jpg)  
