@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20220119 | [Ashdown Forest, home of Winnie-the-Pooh, England (© Mark Phillips/Alamy)](https://cn.bing.com/th?id=OHR.AshdownForest_EN-US1230205282_UHD.jpg)  
 20220118 | [MLK memorial sculpture by William Tarr outside of Martin Luther King Jr. Educational Campus in New York City (© Randy Duchaine/Alamy)](https://cn.bing.com/th?id=OHR.TarrMemorial_EN-US1006824946_UHD.jpg)  
 20220117 | [Sorting chili peppers at a farm in Bogra, Bangladesh (© Amazing Aerial Agency/Offset/Shutterstock)](https://cn.bing.com/th?id=OHR.BoguraChili_EN-US0800461661_UHD.jpg)  
 20220116 | [To Sua Ocean Trench on the south coast of Upolu Island in Samoa (© Chris McLennan/Alamy)](https://cn.bing.com/th?id=OHR.BigHole_EN-US0665897807_UHD.jpg)  
