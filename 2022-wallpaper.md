@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20220121 | [Adélie penguin in Graham Passage, Antarctic Peninsula, Antarctica (© Nick Garbutt/Minden Pictures)](https://cn.bing.com/th?id=OHR.GrahamAdelie_EN-US1408856353_UHD.jpg)  
 20220120 | [Saint Elias Mountains and Kaskawulsh Glacier in Kluane National Park and Reserve, Yukon, Canada (© Design Pics Inc/Alamy)](https://cn.bing.com/th?id=OHR.SaintElias_EN-US1325738273_UHD.jpg)  
 20220119 | [Ashdown Forest, home of Winnie-the-Pooh, England (© Mark Phillips/Alamy)](https://cn.bing.com/th?id=OHR.AshdownForest_EN-US1230205282_UHD.jpg)  
 20220118 | [MLK memorial sculpture by William Tarr outside of Martin Luther King Jr. Educational Campus in New York City (© Randy Duchaine/Alamy)](https://cn.bing.com/th?id=OHR.TarrMemorial_EN-US1006824946_UHD.jpg)  
