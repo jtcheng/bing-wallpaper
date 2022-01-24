@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20220124 | [Meoto Iwa (Wedded Rocks) off the coast of Futami, Mie Prefecture, Honshu, Japan (© Marco Gaiotti/plainpicture)](https://cn.bing.com/th?id=OHR.MeotoIwa_EN-US1871391855_UHD.jpg)  
 20220123 | [Martinique, Lesser Antilles, Caribbean Sea (© Airpano LLC/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.LesserAntilles_EN-US1658249198_UHD.jpg)  
 20220122 | [A lion cub and mother in Sabi Sabi Game Reserve, South Africa (© Andrew Coleman/Getty Images)](https://cn.bing.com/th?id=OHR.HuggingDay_EN-US1567289484_UHD.jpg)  
 20220121 | [Adélie penguin in Graham Passage, Antarctic Peninsula, Antarctica (© Nick Garbutt/Minden Pictures)](https://cn.bing.com/th?id=OHR.GrahamAdelie_EN-US1408856353_UHD.jpg)  
