@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20220127 | [Mehrangarh Fort in Jodhpur, Rajasthan, India (© Jayakumar/Shutterstock)](https://cn.bing.com/th?id=OHR.MehrangarhCourtyard_EN-US2129728794_UHD.jpg)  
 20220126 | [Tŵr Mawr lighthouse on Llanddwyn Island, Anglesey, Wales (© Joe Daniel Price/Getty Images)](https://cn.bing.com/th?id=OHR.StDwynwensDay_EN-US2056417486_UHD.jpg)  
 20220125 | [Lower Manhattan in New York City (© New York On Air/Offset/Shutterstock)](https://cn.bing.com/th?id=OHR.ManhattanView_EN-US1961282866_UHD.jpg)  
 20220124 | [Meoto Iwa (Wedded Rocks) off the coast of Futami, Mie Prefecture, Honshu, Japan (© Marco Gaiotti/plainpicture)](https://cn.bing.com/th?id=OHR.MeotoIwa_EN-US1871391855_UHD.jpg)  
