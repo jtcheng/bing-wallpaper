@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20220202 | [The 369th Infantry returns to New York City, 1919 (© Science History Images/Alamy)](https://cn.bing.com/th?id=OHR.HarlemHellfighters_EN-US2009292254_UHD.jpg)  
 20220201 | [Workers sorting incense in the Huyện Ứng Hòa district of Hanoi, Vietnam (© Azim Khan Ronnie/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.IncenseFieldVietnam_EN-US1945575858_UHD.jpg)  
 20220131 | [Halo around the sun in the Ore Mountains, Saxony, Germany (© Martin Ruegner/Getty Images)](https://cn.bing.com/th?id=OHR.WinterHalo_EN-US1847885731_UHD.jpg)  
 20220130 | [Symmetrical brain coral on a reef in the Caribbean Sea near Grand Cayman, Cayman Islands (© Alex Mustard/Minden Pictures)](https://cn.bing.com/th?id=OHR.BrainCoral_EN-US1756508308_UHD.jpg)  
