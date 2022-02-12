@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20220212 | ['Go' by Kehinde Wiley, displayed inside Moynihan Train Hall at New York City's Penn Station (© Spencer Platt/Getty Images)](https://cn.bing.com/th?id=OHR.TriptychGo_EN-US6716244048_UHD.jpg)  
 20220211 | [The Old City of Bern, Switzerland (© Xantana/Getty Images)](https://cn.bing.com/th?id=OHR.SnowyBern_EN-US4213051884_UHD.jpg)  
 20220210 | [The Ceremony Hall of Icehotel in Jukkasjarvi, Sweden (© Wolfgang Kaehler/LightRocket via Getty Images)](https://cn.bing.com/th?id=OHR.JukkasjarviIcehotel_EN-US2915409149_UHD.jpg)  
 20220209 | [Rock art near Santa Fe, New Mexico (© Scott Warren/Cavan)](https://cn.bing.com/th?id=OHR.UFOPetroglyphs_EN-US2840363119_UHD.jpg)  
