@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20220301 | [Hoarfrost and snow in the Cotswolds, England (© Peter Adams/Getty Images)](https://cn.bing.com/th?id=OHR.WinterCotswolds_EN-US6070178452_UHD.jpg)  
 20220228 | [Polar bear mother with cubs in Wapusk National Park, Manitoba, Canada (© Andre Gilden/Minden Pictures)](https://cn.bing.com/th?id=OHR.IPBDMom_EN-US5866127837_UHD.jpg)  
 20220227 | [Lamplugh Glacier in Glacier Bay National Park, Alaska (© Andrew Peacock/Getty Images)](https://cn.bing.com/th?id=OHR.LamplughGlacier_EN-US2202288609_UHD.jpg)  
 20220226 | ['Legacy' mural painted by Josh Sarantitis and Eric Okdeh within the Mural Arts Program in Philadelphia, Pennsylvania (© Vespasian/Alamy)](https://cn.bing.com/th?id=OHR.LegacyMural_EN-US8368318184_UHD.jpg)  
