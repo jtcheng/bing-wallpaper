@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20220322 | [Holy Trinity Church, Stratford-upon-Avon, England (© James Osmond/Getty Images)](https://cn.bing.com/th?id=OHR.TheBard_EN-US9600542823_UHD.jpg)  
 20220321 | [Javan tree frog, Indonesia (© kuritafsheen/Getty Images)](https://cn.bing.com/th?id=OHR.WorldFrogDay_EN-US9497103821_UHD.jpg)  
 20220320 | [Chicagohenge sunset, Chicago, Illinois (© Razvan Sera/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.Chicagohenge_EN-US9296950779_UHD.jpg)  
 20220319 | [Multicolored powders for sale during Holi (© Nuno Valadas/Getty Images)](https://cn.bing.com/th?id=OHR.Holi2022_EN-US9217068703_UHD.jpg)  
