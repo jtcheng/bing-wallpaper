@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20220401 | [Eiffel Tower in Paris, France (© Susanne Kremer/eStock Photo)](https://cn.bing.com/th?id=OHR.AnniEiffel_EN-US0532501564_UHD.jpg)  
 20220331 | [Belted Galloway cows in Scotland (© JohnFScott/Getty Images)](https://cn.bing.com/th?id=OHR.BeltedGalloway_EN-US0423647307_UHD.jpg)  
 20220330 | [Caribbean coast near Parque Nacional Natural Tayrona, Colombia (© Nicholas Hills/Getty Images)](https://cn.bing.com/th?id=OHR.Buritaca_EN-US0256425153_UHD.jpg)  
 20220329 | [Wisteria blooms at Kawachi Fuji Garden in Kitakyushu, Japan (© Steve Tan C K Photography/Getty Images)](https://cn.bing.com/th?id=OHR.Kawachi_EN-US0111381625_UHD.jpg)  
