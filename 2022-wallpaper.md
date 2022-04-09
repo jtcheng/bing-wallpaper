@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20220409 | [Coast near Ponta Delgada, Madeira, Portugal (© Jan Wlodarczyk/Alamy)](https://cn.bing.com/th?id=OHR.PontaDelgada_EN-US4010436071_UHD.jpg)  
 20220408 | [Old town of Málaga, Spain (© Sean Pavone Photo/Getty Images)](https://cn.bing.com/th?id=OHR.Malaga_EN-US1459419942_UHD.jpg)  
 20220407 | [Crested caracara birds courting in Texas (© Alan Murphy/Minden Pictures)](https://cn.bing.com/th?id=OHR.NorthernCaracara_EN-US1355888776_UHD.jpg)  
 20220406 | [Goðafoss waterfall under the northern lights, Iceland (© Anton Petrus/Getty Images)](https://cn.bing.com/th?id=OHR.Godafoss_EN-US1167261968_UHD.jpg)  
