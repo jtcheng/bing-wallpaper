@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20220416 | ['L'Arc de Triomphe, Wrapped,' an art installation by Christo and Jeanne-Claude on September 24, 2021, in Paris, France (© Bruno de HOGUES/Getty Images)](https://cn.bing.com/th?id=OHR.ChristoJeanneClaude_EN-US5281746588_UHD.jpg)  
 20220415 | [Horseshoe Bend, Arizona (© Michael Dunn/Getty Images)](https://cn.bing.com/th?id=OHR.AZBend_EN-US5187337431_UHD.jpg)  
 20220414 | [Mitsumata (aka paperbush) in a forest in Japan (© nattya3714/Getty Images)](https://cn.bing.com/th?id=OHR.Mitsumata_EN-US4759994973_UHD.jpg)  
 20220413 | [Waning gibbous moon above the Earth's horizon, photographed from the International Space Station (© NASA)](https://cn.bing.com/th?id=OHR.WaningGibbous_EN-US4639615556_UHD.jpg)  
