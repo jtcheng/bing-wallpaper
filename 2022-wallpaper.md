@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20220419 | [Square Tower House in Mesa Verde National Park, Colorado (© lightphoto/Getty Images)](https://cn.bing.com/th?id=OHR.SquareTowerHouse_EN-US5990660612_UHD.jpg)  
 20220418 | [The blue eggs of an American robin in New Jersey (© Mira/Alamy)](https://cn.bing.com/th?id=OHR.RobinsEgg_EN-US5615411748_UHD.jpg)  
 20220417 | [Aerial view of Grand Prismatic Spring, Yellowstone National Park, Wyoming (© AirPano LLC/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.Yellowstone150_EN-US5394661102_UHD.jpg)  
 20220416 | ['L'Arc de Triomphe, Wrapped,' an art installation by Christo and Jeanne-Claude on September 24, 2021, in Paris, France (© Bruno de HOGUES/Getty Images)](https://cn.bing.com/th?id=OHR.ChristoJeanneClaude_EN-US5281746588_UHD.jpg)  
