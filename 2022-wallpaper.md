@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20220501 | [The North Beach Jazz Mural created by Bay Area artist Bill Weber in San Francisco (© Kosso/Getty Images)](https://cn.bing.com/th?id=OHR.NorthBeachJazz_EN-US2507879013_UHD.jpg)  
 20220430 | [A young coast redwood sprouting out of an old log in Prairie Creek Redwoods State Park, California (© Hutch Axilrod/Getty Images)](https://cn.bing.com/th?id=OHR.RedwoodSprout_EN-US2459675162_UHD.jpg)  
 20220429 | [Fox kits practice their hunting skills, Quebec, Canada (© Vlad Kamenski/Shutterstock)](https://cn.bing.com/th?id=OHR.FoxSkills_EN-US2404818455_UHD.jpg)  
 20220428 | [Midnight sun in Svalbard, Norway (© Nature Picture Library/Alamy)](https://cn.bing.com/th?id=OHR.SvalbardSun_EN-US2348209213_UHD.jpg)  
