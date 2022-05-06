@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20220506 | [Tree in blue agave field in the tequila-producing region near Atotonilco el Alto, Jalisco, Mexico (© Brian Overcast/Alamy)](https://cn.bing.com/th?id=OHR.JaliscoAgave_EN-US2800710188_UHD.jpg)  
 20220505 | [Wadi Rum, Jordan (© Thomas Coex/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.WadiRum_EN-US2725530460_UHD.jpg)  
 20220504 | [Mandarin duck hen with ducklings in South Korea (© VDCM image/Getty Images)](https://cn.bing.com/th?id=OHR.DuckHen_EN-US2672519159_UHD.jpg)  
 20220503 | [Travertine terraces of Pamukkale, Turkey (© bybostanci/Getty Images)](https://cn.bing.com/th?id=OHR.TravertineTurkey_EN-US2604407895_UHD.jpg)  
