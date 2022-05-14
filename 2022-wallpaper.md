@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20220514 | [Masai giraffe in Maasai Mara, Kenya (© Andy Rouse/Minden Pictures)](https://cn.bing.com/th?id=OHR.MaasaiGiraffe_EN-US4914727610_UHD.jpg)  
 20220513 | [Nurses serving with the American Red Cross in Paris, France, in May 1919 (© Universal History Archive/Universal Images Group via Getty Images)](https://cn.bing.com/th?id=OHR.RedCross_EN-US5698722803_UHD.jpg)  
 20220512 | [The village of Oia on the island of Santorini, Greece (© Zebra-Studio/Shutterstock)](https://cn.bing.com/th?id=OHR.OiaVillage_EN-US5240840248_UHD.jpg)  
 20220511 | [Panther Creek Falls in spring, Gifford Pinchot National Forest, Washington (© Stephen Matera/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.GiffordPinchot_EN-US4980175686_UHD.jpg)  
