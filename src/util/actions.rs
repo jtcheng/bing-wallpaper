@@ -9,6 +9,7 @@ fn read_file_content(path: &str) -> Result<Vec<String>, Box<dyn Error>> {
         .write(true)
         .create(true)
         .open(path)?;
+
     let content: Vec<_> = BufReader::new(file)
         .lines()
         .map(|line| line.unwrap())
@@ -19,12 +20,9 @@ fn read_file_content(path: &str) -> Result<Vec<String>, Box<dyn Error>> {
 }
 
 pub fn update_readme(w: &Wallpaper) -> Result<(), Box<dyn Error>> {
-    let readme = "README.md";
-    let temp = "TEMP.md";
-    let content = match read_file_content(readme) {
-        Ok(content) => content,
-        Err(err) => return Err(err),
-    };
+    let (readme, temp) = ("README.md", "TEMP.md");
+
+    let content = read_file_content(readme)?;
 
     let mut lines: Vec<_> = Vec::with_capacity(13);
     lines.push("## Bing Wallpaper".to_string());
@@ -68,12 +66,9 @@ pub fn update_readme(w: &Wallpaper) -> Result<(), Box<dyn Error>> {
 }
 
 pub fn update_wallpaper(w: &Wallpaper) -> Result<(), Box<dyn Error>> {
-    let wallpaper = w.get_year() + "-wallpaper.md";
-    let temp = "temp.md";
-    let content = match read_file_content(&wallpaper) {
-        Ok(content) => content,
-        Err(err) => return Err(err),
-    };
+    let (wallpaper, temp) = (w.get_year() + "-wallpaper.md", "temp.md");
+
+    let content = read_file_content(&wallpaper)?;
 
     {
         let file = fs::File::create(temp)?;
