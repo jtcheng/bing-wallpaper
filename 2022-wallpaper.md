@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20220602 | [Coral reef in Marovo Lagoon in the Solomon Islands (© WaterFrame/Alamy)](https://cn.bing.com/th?id=OHR.MarovoLagoon_EN-US9916170608_UHD.jpg)  
 20220601 | [Scarlet macaw in Costa Rica (© Harry Collins/Getty Images)](https://cn.bing.com/th?id=OHR.ParrotDay_EN-US9824481217_UHD.jpg)  
 20220531 | [Rainbow Pool and the field of stars in the World War II Memorial with the Lincoln Memorial in the background, Washington, DC (© Sean Pavone/Getty Images)](https://cn.bing.com/th?id=OHR.WW2Lincoln_EN-US6306243521_UHD.jpg)  
 20220530 | [Hyalite Creek in the Custer Gallatin National Forest, Montana (© Jared Lloyd/Getty Images)](https://cn.bing.com/th?id=OHR.HyaliteCreek_EN-US9700334811_UHD.jpg)  
