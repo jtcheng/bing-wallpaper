@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20220608 | [Haaga Rhododendron Park, Helsinki, Finland (© Samuli Vainionpää/Getty Images)](https://cn.bing.com/th?id=OHR.HaagaRhododendron_EN-US7190183460_UHD.jpg)  
 20220607 | [An indigo bunting at the John James Audubon Center at Mill Grove in Audubon, Pennsylvania (© Vicki Jauron/Getty Images)](https://cn.bing.com/th?id=OHR.IndigoBunting_EN-US6919965546_UHD.jpg)  
 20220606 | [Rapa Valley in Sarek National Park, Sweden (© Alena Vishina/Alamy)](https://cn.bing.com/th?id=OHR.RapadalenSNP_EN-US6836173287_UHD.jpg)  
 20220605 | [Banner Peak and Thousand Island Lake, Ansel Adams Wilderness, California (© Michael DeYoung Photography/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.BannerPeak_EN-US6694457913_UHD.jpg)  
