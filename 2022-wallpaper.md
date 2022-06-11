@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20220611 | [Poppies in bloom, Moravia, Czech Republic (© rusm/Getty Images)](https://cn.bing.com/th?id=OHR.CRPoppies_EN-US7563691816_UHD.jpg)  
 20220610 | [Sweetheart Abbey, Dumfries and Galloway, Scotland (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.SweetheartAbbey_EN-US7440629451_UHD.jpg)  
 20220609 | [Long-beaked common dolphin pod and diving Cape gannets hunting sardines off the Eastern Cape, South Africa (© Pete Oxford/Minden Pictures)](https://cn.bing.com/th?id=OHR.CommonDolphin_EN-US7311583363_UHD.jpg)  
 20220608 | [Haaga Rhododendron Park, Helsinki, Finland (© Samuli Vainionpää/Getty Images)](https://cn.bing.com/th?id=OHR.HaagaRhododendron_EN-US7190183460_UHD.jpg)  
