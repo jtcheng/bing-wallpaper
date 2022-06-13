@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20220613 | [Cliffs of the Sierra Ponce and Rio Grande, Big Bend National Park, Texas (© Tim Fitzharris/Minden Pictures)](https://cn.bing.com/th?id=OHR.SierraPonce_EN-US7735077868_UHD.jpg)  
 20220612 | [Misool Island, one of the four major islands in the Raja Ampat Islands in West Papua, Indonesia (© Elsy Saldek/Getty Images)](https://cn.bing.com/th?id=OHR.MisoolIsland_EN-US7672276436_UHD.jpg)  
 20220611 | [Poppies in bloom, Moravia, Czech Republic (© rusm/Getty Images)](https://cn.bing.com/th?id=OHR.CRPoppies_EN-US7563691816_UHD.jpg)  
 20220610 | [Sweetheart Abbey, Dumfries and Galloway, Scotland (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.SweetheartAbbey_EN-US7440629451_UHD.jpg)  
