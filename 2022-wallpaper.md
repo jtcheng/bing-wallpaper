@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20220615 | [The Metropolitan Museum of Art in New York City (© Susanne Pommer/Shutterstock)](https://cn.bing.com/th?id=OHR.MuseumMile_EN-US8035796645_UHD.jpg)  
 20220614 | [Elephant walking in the Okavango River, Botswana (© Markus Pavlowsky/Getty Images)](https://cn.bing.com/th?id=OHR.OkavangoElephant_EN-US7949357706_UHD.jpg)  
 20220613 | [Cliffs of the Sierra Ponce and Rio Grande, Big Bend National Park, Texas (© Tim Fitzharris/Minden Pictures)](https://cn.bing.com/th?id=OHR.SierraPonce_EN-US7735077868_UHD.jpg)  
 20220612 | [Misool Island, one of the four major islands in the Raja Ampat Islands in West Papua, Indonesia (© Elsy Saldek/Getty Images)](https://cn.bing.com/th?id=OHR.MisoolIsland_EN-US7672276436_UHD.jpg)  
