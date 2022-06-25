@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20220625 | [Scuba diver exploring the underwater cenotes near Puerto Aventuras, Mexico (© Extreme Photographer/Getty Images)](https://cn.bing.com/th?id=OHR.CenoteDiver_EN-US7458460864_UHD.jpg)  
 20220624 | [Stari Most in Mostar, Bosnia and Herzegovina (© Ayhan Altun/Getty Images)](https://cn.bing.com/th?id=OHR.MostarBridge_EN-US7365620237_UHD.jpg)  
 20220623 | [Yasuní National Park in Amazonian Ecuador (© Paul Bertner/Minden Pictures)](https://cn.bing.com/th?id=OHR.AmazonianEcuador_EN-US0278717095_UHD.jpg)  
 20220622 | [View of Glastonbury Tor from Walton Hill, Somerset, England (© Guy Edwardes/Minden Pictures)](https://cn.bing.com/th?id=OHR.GlastonburySolstice_EN-US7196057692_UHD.jpg)  
