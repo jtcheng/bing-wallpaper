@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20220702 | ['Vejrpigerne' ('The Weather Girls') sculpture on top of the Richshuset building in City Hall Square, Copenhagen, Denmark (© Stig Alenas/Shutterstock)](https://cn.bing.com/th?id=OHR.WeatherGirls_EN-US6924387788_UHD.jpg)  
 20220701 | [The Acraman crater, Australia (© USGS/NASA Landsat data/Orbital Horizon/Gallo Images/Getty images)](https://cn.bing.com/th?id=OHR.AcramanCrater_EN-US7941020158_UHD.jpg)  
 20220630 | [Mangrove forest in Phang Nga Bay, Andaman Sea, Thailand (© Ratnakorn Piyasirisorost/Getty Images)](https://cn.bing.com/th?id=OHR.PhangNgaBay_EN-US7871649198_UHD.jpg)  
 20220629 | [An old kasbah in the Tafilalet region, Morocco (© José Antonio Moreno/agefotostock)](https://cn.bing.com/th?id=OHR.TafilaletOasis_EN-US7798050717_UHD.jpg)  
