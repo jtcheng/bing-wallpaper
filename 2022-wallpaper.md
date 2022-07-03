@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20220703 | [Aerial view of a road separating two lakes in the Scottish Highlands (© Abstract Aerial Art/Getty Images)](https://cn.bing.com/th?id=OHR.HalfwayDay_EN-US6981774268_UHD.jpg)  
 20220702 | ['Vejrpigerne' ('The Weather Girls') sculpture on top of the Richshuset building in City Hall Square, Copenhagen, Denmark (© Stig Alenas/Shutterstock)](https://cn.bing.com/th?id=OHR.WeatherGirls_EN-US6924387788_UHD.jpg)  
 20220701 | [The Acraman crater, Australia (© USGS/NASA Landsat data/Orbital Horizon/Gallo Images/Getty images)](https://cn.bing.com/th?id=OHR.AcramanCrater_EN-US7941020158_UHD.jpg)  
 20220630 | [Mangrove forest in Phang Nga Bay, Andaman Sea, Thailand (© Ratnakorn Piyasirisorost/Getty Images)](https://cn.bing.com/th?id=OHR.PhangNgaBay_EN-US7871649198_UHD.jpg)  
