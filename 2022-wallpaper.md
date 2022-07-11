@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20220711 | [Aerial view of colorful boats in the Mediterranean Sea in Ölüdeniz, Turkey (© den-belitsky/Getty Images)](https://cn.bing.com/th?id=OHR.OludenizTurkey_EN-US7964154843_UHD.jpg)  
 20220710 | [Dolomite Mountains at night with the Milky Way, Italy (© Carlos Fernandez/Getty Images)](https://cn.bing.com/th?id=OHR.DolomitesMW_EN-US7903776288_UHD.jpg)  
 20220709 | [Preveli Gorge with river and palm tree forest, Crete, Greece (© borchee/Getty Images)](https://cn.bing.com/th?id=OHR.PreveliGorge_EN-US7830712096_UHD.jpg)  
 20220708 | [Heceta Head Light, Florence, Oregon (© Tom Schwabel/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.HecetaHead_EN-US7658704670_UHD.jpg)  
