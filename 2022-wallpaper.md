@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20220713 | [Bay Marker Lookout, Sydney Olympic Park, Australia (© ai_yoshi/Getty Images)](https://cn.bing.com/th?id=OHR.SpiralHill_EN-US8098037208_UHD.jpg)  
 20220712 | [Barcelona, Spain (© SW Photography/Getty Images)](https://cn.bing.com/th?id=OHR.BarcelonaPop_EN-US8033472712_UHD.jpg)  
 20220711 | [Aerial view of colorful boats in the Mediterranean Sea in Ölüdeniz, Turkey (© den-belitsky/Getty Images)](https://cn.bing.com/th?id=OHR.OludenizTurkey_EN-US7964154843_UHD.jpg)  
 20220710 | [Dolomite Mountains at night with the Milky Way, Italy (© Carlos Fernandez/Getty Images)](https://cn.bing.com/th?id=OHR.DolomitesMW_EN-US7903776288_UHD.jpg)  
