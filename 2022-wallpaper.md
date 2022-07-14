@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20220714 | [Basalt columns of Giant's Causeway, Northern Ireland (© Olimpio Fantuz/eStock Photo)](https://cn.bing.com/th?id=OHR.BasaltGiants_EN-US8165410401_UHD.jpg)  
 20220713 | [Bay Marker Lookout, Sydney Olympic Park, Australia (© ai_yoshi/Getty Images)](https://cn.bing.com/th?id=OHR.SpiralHill_EN-US8098037208_UHD.jpg)  
 20220712 | [Barcelona, Spain (© SW Photography/Getty Images)](https://cn.bing.com/th?id=OHR.BarcelonaPop_EN-US8033472712_UHD.jpg)  
 20220711 | [Aerial view of colorful boats in the Mediterranean Sea in Ölüdeniz, Turkey (© den-belitsky/Getty Images)](https://cn.bing.com/th?id=OHR.OludenizTurkey_EN-US7964154843_UHD.jpg)  
