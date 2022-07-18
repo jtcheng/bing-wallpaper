@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20220718 | [The Wave sandstone formation in Coyote Buttes North, Paria Canyon-Vermilion Cliffs National Monument, Arizona (© Dennis Frates/Alamy)](https://cn.bing.com/th?id=OHR.CoyoteButtes_EN-US2729289736_UHD.jpg)  
 20220717 | [Goldfinch on a sunflower in McConnells, South Carolina (© Teresa Kopec/Getty Images)](https://cn.bing.com/th?id=OHR.AmericanGoldfinch_EN-US2664017758_UHD.jpg)  
 20220716 | [The village of Arrone in Umbria, Italy (© Maurizio Rellini/eStock Photo)](https://cn.bing.com/th?id=OHR.Arrone_EN-US2438328393_UHD.jpg)  
 20220715 | [Baby lemon sharks swimming among mangroves near Alice Town, Bimini, Bahamas (© Ken Kiefer 2/Getty Images)](https://cn.bing.com/th?id=OHR.BabyLemons_EN-US8232804860_UHD.jpg)  
