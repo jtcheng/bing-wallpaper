@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20220722 | [Abbey Gardens in Bury St Edmunds, Suffolk, England (© Charles Martinez/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.AbbeyGardens_EN-US3622669026_UHD.jpg)  
 20220721 | [Composite photo showing the phases of the moon (© Delpixart/Getty Images)](https://cn.bing.com/th?id=OHR.MoonPhases_EN-US3514261526_UHD.jpg)  
 20220720 | [Male American bison in Yellowstone National Park, Wyoming (© Donyanedomam/Getty Images)](https://cn.bing.com/th?id=OHR.YellowstoneBison_EN-US2891320959_UHD.jpg)  
 20220719 | [Omijima Island in Kita-Nagato Kaigan Quasi-National Park, Japan (© Sean Pavone Photo/Adobe Stock)](https://cn.bing.com/th?id=OHR.OmijimaIsland_EN-US2811609327_UHD.jpg)  
