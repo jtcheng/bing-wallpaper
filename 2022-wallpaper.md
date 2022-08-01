@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20220801 | [Noctilucent clouds in Lithuania (© ljphoto7/Getty Images)](https://cn.bing.com/th?id=OHR.NoctilucentClouds_EN-US0838966037_UHD.jpg)  
 20220731 | [Rainforest hike near Milford Sound/Piopiotahi in New Zealand (© Jim Patterson/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.FiordlandRainforest_EN-US0539876428_UHD.jpg)  
 20220730 | [Tigresses of Telia Lake in Tadoba Andhari Tiger Reserve, India (© Ashish Parmar/Alamy)](https://cn.bing.com/th?id=OHR.FourTigresses_EN-US0466229333_UHD.jpg)  
 20220729 | [Longs Peak in Rocky Mountain National Park, Colorado (© Andrew R. Slaton/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.LongsPeak_EN-US4189093342_UHD.jpg)  
