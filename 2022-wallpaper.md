@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20220809 | [Aerial view of the island Pantaleu near Sant Elm, Mallorca, Spain (© Dimitri Weber/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.EsPantaleu_EN-US2555315913_UHD.jpg)  
 20220808 | [Spring Point Ledge Light in South Portland, Maine (© Haizhan Zheng/Getty Images)](https://cn.bing.com/th?id=OHR.SpringPoint_EN-US2439443308_UHD.jpg)  
 20220807 | [Salt flats in San Francisco Bay (© Jeffrey Lewis/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.SFSaltFlats_EN-US2301713772_UHD.jpg)  
 20220806 | [Edinburgh city skyline at night, Scotland (© Suranga Weeratuna/Alamy)](https://cn.bing.com/th?id=OHR.MilitaryTattoo_EN-US2404986711_UHD.jpg)  
