@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20220814 | [Boundary Waters Canoe Area Wilderness, Superior National Forest, Minnesota (© Dukas/Universal Images Group via Getty Images)](https://cn.bing.com/th?id=OHR.BoundaryWaters_EN-US1592534087_UHD.jpg)  
 20220813 | [Herd of African elephants in Amboseli National Park, Kenya (© Susan Portnoy/Shutterstock)](https://cn.bing.com/th?id=OHR.AmboseliElephants_EN-US1510486473_UHD.jpg)  
 20220812 | [Mount Tsubakuro near Azumino, Nagano, Japan (© Joshua Hawley/Getty Images)](https://cn.bing.com/th?id=OHR.MtTsubakuro_EN-US2985513957_UHD.jpg)  
 20220811 | [Joshua trees in Joshua Tree National Park, California (© Tim Fitzharris/Minden Pictures)](https://cn.bing.com/th?id=OHR.AnniversaryJTNP_EN-US2914674933_UHD.jpg)  
