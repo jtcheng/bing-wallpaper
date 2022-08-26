@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20220826 | [North Cascades National Park, Washington (© Ethan Welty/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.CascadesNP_EN-US3684575794_UHD.jpg)  
 20220825 | [Wheat field in Ukraine (© Yuriy Kulik/Getty Images)](https://cn.bing.com/th?id=OHR.WheatField_EN-US3537753695_UHD.jpg)  
 20220824 | [Menton, France (© Flavio Foglietta/Getty Images)](https://cn.bing.com/th?id=OHR.MentonFrance_EN-US3424001829_UHD.jpg)  
 20220823 | [A burrowing owl chick and adult in South Florida (© Carlos Carreno/Getty Images)](https://cn.bing.com/th?id=OHR.TenderMoment_EN-US3269942524_UHD.jpg)  
