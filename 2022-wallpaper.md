@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20220918 | [Oktoberfest visitors in Munich, Germany (© Karl-Josef Hildenbrand/Getty Images)](https://cn.bing.com/th?id=OHR.Wellenflug_EN-US7380614960_UHD.jpg)  
 20220917 | [Puma in Torres del Paine National Park, Patagonia, Chile (© Ingo Arndt/Minden Pictures)](https://cn.bing.com/th?id=OHR.PianePuma_EN-US7221521942_UHD.jpg)  
 20220916 | [Mural by Betsy Casañas in Buffalo, New York (© Tom Loonan)](https://cn.bing.com/th?id=OHR.BuffaloMural_EN-US7123580117_UHD.jpg)  
 20220915 | [Navajo Bridge over the Colorado River at the Glen Canyon National Recreation Area in northern Arizona (© trekandshoot/Alamy)](https://cn.bing.com/th?id=OHR.MarbleCanyon_EN-US7056773172_UHD.jpg)  
