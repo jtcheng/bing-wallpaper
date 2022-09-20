@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20220920 | [Floral tributes left in London, England, following the death of Queen Elizabeth II (© Maja Smiejkowska/Reuters)](https://cn.bing.com/th?id=OHR.QueenFuneral_EN-US7710269016_UHD.jpg)  
 20220919 | [Footpath in the Arashiyama Bamboo Grove, Kyoto, Japan (© Razvan Ciuca/Getty Images)](https://cn.bing.com/th?id=OHR.ArashiyamaBamboo_EN-US7569665443_UHD.jpg)  
 20220918 | [Oktoberfest visitors in Munich, Germany (© Karl-Josef Hildenbrand/Getty Images)](https://cn.bing.com/th?id=OHR.Wellenflug_EN-US7380614960_UHD.jpg)  
 20220917 | [Puma in Torres del Paine National Park, Patagonia, Chile (© Ingo Arndt/Minden Pictures)](https://cn.bing.com/th?id=OHR.PianePuma_EN-US7221521942_UHD.jpg)  
