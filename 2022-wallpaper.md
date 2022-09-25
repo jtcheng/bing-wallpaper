@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20220925 | [Milky Way over Acadia National Park, Maine (© Harry Collins/Getty Images)](https://cn.bing.com/th?id=OHR.DarkSkyAcadia_EN-US6966527964_UHD.jpg)  
 20220924 | [Golden jellyfish in Jellyfish Lake on the island of Eil Malk, Palau (© Nature Picture Library/Alamy)](https://cn.bing.com/th?id=OHR.GoldenJellyfish_EN-US6743816471_UHD.jpg)  
 20220923 | [The aspen canopy along the Last Dollar Road near Telluride, Colorado (© Grant Ordelheide/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.LastDollarRoad_EN-US7923638318_UHD.jpg)  
 20220922 | ['Peace Doves' by artist Peter Walker in Liverpool Cathedral, Liverpool, England (© PAUL ELLIS/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.PWPeaceDoves_EN-US7797522376_UHD.jpg)  
