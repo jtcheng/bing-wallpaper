@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20220928 | [Upper Geyser Basin in Yellowstone National Park, Wyoming (© Ray Urner/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.YellowstoneUGB_EN-US7573964019_UHD.jpg)  
 20220927 | [Caribou crossing the Susitna River during autumn, Alaska (© Tim Plowden/Alamy)](https://cn.bing.com/th?id=OHR.SusitnaRiver_EN-US7154675950_UHD.jpg)  
 20220926 | [Aerial view of the Amazon River in Brazil (© Curioso.Photography/Shutterstock)](https://cn.bing.com/th?id=OHR.AmazonMangroves_EN-US7068770726_UHD.jpg)  
 20220925 | [Milky Way over Acadia National Park, Maine (© Harry Collins/Getty Images)](https://cn.bing.com/th?id=OHR.DarkSkyAcadia_EN-US6966527964_UHD.jpg)  
