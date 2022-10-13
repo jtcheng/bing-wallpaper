@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20221013 | [Ammonite Pavement at Monmouth Beach, Jurassic Coast World Heritage Site, Dorset, England (© AWL Images/Danita Delimont)](https://cn.bing.com/th?id=OHR.AmmoniteGraveyard_EN-US7510840532_UHD.jpg)  
 20221012 | [Wall screw-moss glistening with water droplets, Netherlands (© Arjan Troost/Minden Pictures)](https://cn.bing.com/th?id=OHR.TortulaMoss_EN-US7128071079_UHD.jpg)  
 20221011 | [The 'Circle of Sacred Smoke' sculpture by Junkyu Muto frames Devils Tower in Wyoming (© Nagel Photography/Shutterstock)](https://cn.bing.com/th?id=OHR.SacredSmoke_EN-US7047459944_UHD.jpg)  
 20221010 | [Phytoplankton blooming in the Chukchi Sea off the coast of Alaska (© Norman Kuring/Kathryn Hansen/U.S. Geological Survey/NASA)](https://cn.bing.com/th?id=OHR.ChukchiSea_EN-US6494940864_UHD.jpg)  
