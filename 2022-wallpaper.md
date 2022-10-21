@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20221021 | [Hoffmann's two-toed sloth mother and young, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)](https://cn.bing.com/th?id=OHR.SlothDay_EN-US8418438094_UHD.jpg)  
 20221020 | [Thuringian Forest in autumn with Wartburg Castle, Germany (© ezypix/Getty Images)](https://cn.bing.com/th?id=OHR.WartburgCastle_EN-US8283353282_UHD.jpg)  
 20221019 | [Guggenheim Museum Bilbao, Spain (© Jeremy Horner/Getty Images)](https://cn.bing.com/th?id=OHR.GB25Anni_EN-US8198972228_UHD.jpg)  
 20221018 | [Long-eared owl in the Bohemian-Moravian Highlands of the Czech Republic (© Ondrej Prosicky/Alamy)](https://cn.bing.com/th?id=OHR.SwedenOwl_EN-US8107135630_UHD.jpg)  
