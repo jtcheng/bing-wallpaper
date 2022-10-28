@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20221028 | [Bridge of Sighs in Venice, Italy (© Doug Pearson/Alamy)](https://cn.bing.com/th?id=OHR.BridgeofSighs_EN-US5335369208_UHD.jpg)  
 20221027 | [Brocken spectre in Central Balkan National Park, Bulgaria (© Maya Karkalicheva/Getty Images)](https://cn.bing.com/th?id=OHR.BrockenSpecter_EN-US5247366251_UHD.jpg)  
 20221026 | [Orcus sculpture in the Gardens of Bomarzo in Bomarzo, Italy (© Scott Wilson/Alamy)](https://cn.bing.com/th?id=OHR.OrcusMouth_EN-US5010597701_UHD.jpg)  
 20221025 | [Oil lamps arranged on a rangoli to celebrate Diwali in Guwahati, India (© Biju Boro/Getty Images)](https://cn.bing.com/th?id=OHR.GuwahatiDiwali_EN-US3454357880_UHD.jpg)  
