@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20221101 | [Trees in Wychwood Forest near Chipping Norton, Oxfordshire, England (© Frederick Ardley/Getty Images)](https://cn.bing.com/th?id=OHR.WychwoodForest_EN-US6378774990_UHD.jpg)  
 20221031 | [Polar bear at the edge of Hudson Bay, Manitoba, Canada (© Sean Crane/Minden Pictures)](https://cn.bing.com/th?id=OHR.SealRiver_EN-US6267835630_UHD.jpg)  
 20221030 | [Sea angel (© Alexander Semenov Images/Shutterstock)](https://cn.bing.com/th?id=OHR.SeaAngel_EN-US5531672696_UHD.jpg)  
 20221029 | [Stormy sky over Lake Geneva in Lausanne, Switzerland (© Suradech Singhanat/Shutterstock)](https://cn.bing.com/th?id=OHR.FrankensteinFriday_EN-US3119113489_UHD.jpg)  
