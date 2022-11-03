@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20221103 | [The Hughes H-4 Hercules, aka the Spruce Goose, November 1947, Long Beach Harbor, California (© J R Eyerman/Shutterstock)](https://cn.bing.com/th?id=OHR.SpruceGoose_EN-US0021752220_UHD.jpg)  
 20221102 | [Skeleton figures (calacas) dressed up for Día de los Muertos celebrations in Mexico (© Amelia Fuentes Marin/Getty Images)](https://cn.bing.com/th?id=OHR.Calacas_EN-US6430903741_UHD.jpg)  
 20221101 | [Trees in Wychwood Forest near Chipping Norton, Oxfordshire, England (© Frederick Ardley/Getty Images)](https://cn.bing.com/th?id=OHR.WychwoodForest_EN-US6378774990_UHD.jpg)  
 20221031 | [Polar bear at the edge of Hudson Bay, Manitoba, Canada (© Sean Crane/Minden Pictures)](https://cn.bing.com/th?id=OHR.SealRiver_EN-US6267835630_UHD.jpg)  
