@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20221105 | [Depiction of deities from the Tomb of Tutankhamun at the Egyptian Museum, Cairo, Egypt (© Stefan Lippmann/Universal Images Group via Getty Images)](https://cn.bing.com/th?id=OHR.Deities_EN-US8555427337_UHD.jpg)  
 20221104 | [Mount Kilimanjaro with Cape buffaloes in foreground, Amboseli Biosphere Reserve, Kenya (© RealityImages/Shutterstock)](https://cn.bing.com/th?id=OHR.AmboseliBioshere_EN-US9391999022_UHD.jpg)  
 20221103 | [The Hughes H-4 Hercules, aka the Spruce Goose, November 1947, Long Beach Harbor, California (© J R Eyerman/Shutterstock)](https://cn.bing.com/th?id=OHR.SpruceGoose_EN-US0021752220_UHD.jpg)  
 20221102 | [Skeleton figures (calacas) dressed up for Día de los Muertos celebrations in Mexico (© Amelia Fuentes Marin/Getty Images)](https://cn.bing.com/th?id=OHR.Calacas_EN-US6430903741_UHD.jpg)  
