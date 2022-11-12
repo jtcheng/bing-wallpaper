@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20221112 | [The Vietnam Women's Memorial in Washington, DC (© Cvandyke/Shutterstock)](https://cn.bing.com/th?id=OHR.WomensMemorialMall_EN-US1199151625_UHD.jpg)  
 20221111 | [Rock formations in Badlands National Park during a lightning storm, South Dakota (© DEEPOL by plainpicture)](https://cn.bing.com/th?id=OHR.BadLightning_EN-US0865590962_UHD.jpg)  
 20221110 | [European hedgehog in Sussex, England (© Jules Cox/Minden Pictures)](https://cn.bing.com/th?id=OHR.HedgehogNest_EN-US0590169065_UHD.jpg)  
 20221109 | [Sky lanterns take flight during the Yi Peng Festival in Chiang Mai, Thailand (© Suttipong Sutiratanachai/Getty Images)](https://cn.bing.com/th?id=OHR.YiPeng_EN-US0467115147_UHD.jpg)  
