@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20221116 | [North American river otters swimming in Acadia National Park, Maine (© George Sanker/Minden Pictures)](https://cn.bing.com/th?id=OHR.LontraCanadensis_EN-US1791102347_UHD.jpg)  
 20221115 | [Ruins of the medieval castle of the Knights of St. John above the village of Chorio, Halki Island, Greece (© Massimo Ripani/eStock Photo)](https://cn.bing.com/th?id=OHR.SanGiovanni_EN-US1675492729_UHD.jpg)  
 20221114 | [The Punch Bowl on the River Quoich in the Cairngorms, Aberdeenshire, Scotland (© AWL Images/Danita Delimont)](https://cn.bing.com/th?id=OHR.PunchBowl_EN-US0351920520_UHD.jpg)  
 20221113 | [Bald eagles near Haines, Alaska (© Marion Vollborn/Minden Pictures)](https://cn.bing.com/th?id=OHR.HainesEagle_EN-US1470582706_UHD.jpg)  
