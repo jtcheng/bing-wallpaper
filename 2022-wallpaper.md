@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20221125 | [Cranberry bog (© SHSPhotography/Getty Images)](https://cn.bing.com/th?id=OHR.CranberryBog_EN-US4145520322_UHD.jpg)  
 20221124 | [Sunflower (© Dileep Chandran/Alamy)](https://cn.bing.com/th?id=OHR.HelianthusAnnuus_EN-US9168789034_UHD.jpg)  
 20221123 | [Red fox in Amsterdamse Waterleidingduinen Nature Reserve, Netherlands (© Edwin Giesbers/Minden Pictures)](https://cn.bing.com/th?id=OHR.Waterleidingduinen_EN-US9090200846_UHD.jpg)  
 20221122 | [Ahmad Bin Ali Stadium in Doha, Qatar (© Qatar 2022/Supreme Committee via Getty Images)](https://cn.bing.com/th?id=OHR.FIFA2022_EN-US9006895256_UHD.jpg)  
