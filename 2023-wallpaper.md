@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20230125 | [Colle Santa Lucia in the Dolomites, Italy (© mauritius images GmbH/Alamy)](https://cn.bing.com/th?id=OHR.ColleSantaLucia_EN-US2362622808_UHD.jpg)  
 20230124 | [Moai statues on Easter Island, Chile (© Karine Aigner/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.SunriseMoai_EN-US2278287529_UHD.jpg)  
 20230123 | [Mountain hare in Derbyshire, England (© Ben Hall/Minden Pictures)](https://cn.bing.com/th?id=OHR.YearRabbit_EN-US2153925391_UHD.jpg)  
 20230122 | [Kangaroo mother and baby (© Belle Ciezak/Shutterstock)](https://cn.bing.com/th?id=OHR.HuggingKanga_EN-US2086666028_UHD.jpg)  
