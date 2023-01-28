@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20230128 | [Red mangrove tree seedlings in Guanahacabibes National Park, Cuba (© Claudio Contreras/Minden Pictures)](https://cn.bing.com/th?id=OHR.RedMangrove_EN-US2559915803_UHD.jpg)  
 20230127 | [Heaven's Gate Cave in Tianmen Mountain National Park, China (© Shane P. White/Minden Pictures)](https://cn.bing.com/th?id=OHR.HighArchChina_EN-US3519227219_UHD.jpg)  
 20230126 | [Statue of Robert Burns in the Birks of Aberfeldy, Perth and Kinross, Scotland (© Dennis Barnes/Getty Images)](https://cn.bing.com/th?id=OHR.BirksofAberfeldy_EN-US2525260479_UHD.jpg)  
 20230125 | [Colle Santa Lucia in the Dolomites, Italy (© mauritius images GmbH/Alamy)](https://cn.bing.com/th?id=OHR.ColleSantaLucia_EN-US2362622808_UHD.jpg)  
