@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20230209 | [Ureddplassen, a rest area on the Helgelandskysten scenic route, Norway (© Eyesite/Alamy)](https://cn.bing.com/th?id=OHR.NorwayRestArea_EN-US3474268008_UHD.jpg)  
 20230208 | [Village of Labro, Rieti Province, Italy (© Marco Ilari/Shutterstock)](https://cn.bing.com/th?id=OHR.MedievalLabro_EN-US3411281136_UHD.jpg)  
 20230207 | [Fiordland National Park in South Island, New Zealand (© WitR/Adobe Stock)](https://cn.bing.com/th?id=OHR.WaitangiFjordlandNP_EN-US6375624505_UHD.jpg)  
 20230206 | [Monarch butterflies at Pismo Beach, California (© Mimi Ditchie/Getty Images)](https://cn.bing.com/th?id=OHR.MonarchPismo_EN-US3162751009_UHD.jpg)  
