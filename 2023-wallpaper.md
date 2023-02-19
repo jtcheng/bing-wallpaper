@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20230219 | [Eben Ice Caves, Upper Peninsula, Michigan (© Dean Pennala/Shutterstock)](https://cn.bing.com/th?id=OHR.EbenIceCave_EN-US1839710567_UHD.jpg)  
 20230218 | [Allen's hummingbird perched on a red kangaroo paw plant (© GypsyPictureShow/Shutterstock)](https://cn.bing.com/th?id=OHR.BirdcountAllen_EN-US1766542066_UHD.jpg)  
 20230217 | ['Firefall' on Horsetail Fall, Yosemite National Park, California (© Jeff Lewis/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.FireFallYosemite_EN-US1696286356_UHD.jpg)  
 20230216 | [Hippopotamus mother and baby, Chobe National Park, Botswana (© jacobeukman/Getty Images)](https://cn.bing.com/th?id=OHR.HippoDayChobe_EN-US1475666654_UHD.jpg)  
