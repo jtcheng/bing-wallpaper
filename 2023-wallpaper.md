@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20230416 | ['Together' sculpture by Lorenzo Quinn, Great Pyramids of Giza, Cairo, Egypt (© Sima Diab/Getty Images)](https://cn.bing.com/th?id=OHR.LorenzoQuinn_EN-US6997686421_UHD.jpg)  
 20230415 | [Mediterranean red sea stars, Mediterranean Sea (© Hans Leijnse/Minden Pictures)](https://cn.bing.com/th?id=OHR.RedSeaStars_EN-US6473635643_UHD.jpg)  
 20230414 | [Moss pink displays at Hitsujiyama Park, Saitama Prefecture, Japan (© Takashi Images/Shutterstock)](https://cn.bing.com/th?id=OHR.PhloxSubulata_EN-US0635247129_UHD.jpg)  
 20230413 | [Earth seen from the International Space Station (© Tim Peake/ESA/NASA via Getty Images)](https://cn.bing.com/th?id=OHR.EuropeFromISS_EN-US3248706956_UHD.jpg)  
