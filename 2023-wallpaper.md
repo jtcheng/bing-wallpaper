@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20230419 | [Machu Picchu, Peru (© Dora Dalton/Getty Images)](https://cn.bing.com/th?id=OHR.MPPUnesco_EN-US8204922969_UHD.jpg)  
 20230418 | ['One Thousand Springs' haiku art installation by Chiharu Shiota, Kew Royal Botanic Gardens, London, England (© Guy Bell/Alamy Live News)](https://cn.bing.com/th?id=OHR.OneThousandSprings_EN-US8092648404_UHD.jpg)  
 20230417 | [Adelaide International Kite Festival, Australia (© Andrey Moisseyev/Alamy)](https://cn.bing.com/th?id=OHR.KiteDay_EN-US7254188187_UHD.jpg)  
 20230416 | ['Together' sculpture by Lorenzo Quinn, Great Pyramids of Giza, Cairo, Egypt (© Sima Diab/Getty Images)](https://cn.bing.com/th?id=OHR.LorenzoQuinn_EN-US6997686421_UHD.jpg)  
