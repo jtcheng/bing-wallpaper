@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20230422 | [Procida, Italy (© Sean Pavone/Shutterstock)](https://cn.bing.com/th?id=OHR.ProcidaItaly_EN-US6282924427_UHD.jpg)  
 20230421 | [Juniper Springs in Ocala National Forest, Florida (© Michael Warren/Getty Images)](https://cn.bing.com/th?id=OHR.OcalaNF_EN-US5881034085_UHD.jpg)  
 20230420 | [Taiwan yuhina pair, Alishan National Scenic Area, Taiwan (© Staffan Widstrand/Minden Pictures)](https://cn.bing.com/th?id=OHR.TaiwanYuhina_EN-US1768443431_UHD.jpg)  
 20230419 | [Machu Picchu, Peru (© Dora Dalton/Getty Images)](https://cn.bing.com/th?id=OHR.MPPUnesco_EN-US8204922969_UHD.jpg)  
