@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20230530 | [Lantern floating ceremony, Ala Moana Beach Park, Honolulu, Hawaii (© Naomi Hayes of Island Memories Photography/Getty Images)](https://cn.bing.com/th?id=OHR.LanternFloating_EN-US4433076187_UHD.jpg)  
 20230529 | [Tegallalang terrace farms in Ubud, Bali, Indonesia (© Cavan Images/Adobe Stock)](https://cn.bing.com/th?id=OHR.TegallalangTerrace_EN-US4296943902_UHD.jpg)  
 20230528 | [Quiver trees in Namibia (© Fotofeeling/DEEPOL by plainpicture)](https://cn.bing.com/th?id=OHR.AloeDichotomum_EN-US4149828212_UHD.jpg)  
 20230527 | [Wat Sri Sawai in Sukhothai Historical Park, Thailand (© Casper1774 Studio/Shutterstock)](https://cn.bing.com/th?id=OHR.WatSriSawai_EN-US3779091241_UHD.jpg)  
