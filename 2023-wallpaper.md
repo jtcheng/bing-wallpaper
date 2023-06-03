@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20230603 | [Gemsbok (Oryx gazella) in sand dunes, Namibia (© Sergey Gorshkov/Minden)](https://cn.bing.com/th?id=OHR.GemsbokNamibia_EN-US7844189674_UHD.jpg)  
 20230602 | [Aerial image of the Great Barrier Reef, Australia (© AirPano LLC/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.ReefAwareness_EN-US4807167780_UHD.jpg)  
 20230601 | [Sea otter pup, Prince William Sound, Alaska (© Donald M. Jones/Minden Pictures)](https://cn.bing.com/th?id=OHR.WorldOtterDay_EN-US4690332709_UHD.jpg)  
 20230531 | [Playa del Amor in the Marietas Islands, off the coast of Puerto Vallarta, Mexico (© ferrantraite/Getty Images)](https://cn.bing.com/th?id=OHR.HiddenBeach_EN-US8990991711_UHD.jpg)  
