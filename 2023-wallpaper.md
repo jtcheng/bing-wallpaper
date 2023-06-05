@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20230605 | [Black sand beach at Wai'ānapanapa State Park, Maui, Hawaii (© Matt Anderson Photography/Getty Images)](https://cn.bing.com/th?id=OHR.MauiBeach_EN-US7999098369_UHD.jpg)  
 20230604 | [South Kaibab Trail in Grand Canyon National Park, Arizona (© Roman Khomlyak/Getty Images)](https://cn.bing.com/th?id=OHR.SouthKaibabTrail_EN-US7932080032_UHD.jpg)  
 20230603 | [Gemsbok (Oryx gazella) in sand dunes, Namibia (© Sergey Gorshkov/Minden)](https://cn.bing.com/th?id=OHR.GemsbokNamibia_EN-US7844189674_UHD.jpg)  
 20230602 | [Aerial image of the Great Barrier Reef, Australia (© AirPano LLC/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.ReefAwareness_EN-US4807167780_UHD.jpg)  
