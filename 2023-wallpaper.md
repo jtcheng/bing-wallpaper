@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20230703 | [Veluwemeer Aqueduct, Netherlands (© Frolova_Elena/Getty Images)](https://cn.bing.com/th?id=OHR.HalfwayBoats_EN-US9913306071_UHD.jpg)  
 20230702 | [Tour de France cyclists crossing the Pont du Gard, France (© Gonzalo Fuentes/Reuters)](https://cn.bing.com/th?id=OHR.PelotonPont_EN-US1487303209_UHD.jpg)  
 20230701 | [Brown bear mother and cub, Lake Clark National Park and Preserve, Alaska (© Carlos Carreno/Getty Images)](https://cn.bing.com/th?id=OHR.ClamBears_EN-US1283973201_UHD.jpg)  
 20230630 | [Banyak Islands, Sumatra, Indonesia (© fbxx/Getty Images)](https://cn.bing.com/th?id=OHR.BanyakIslands_EN-US2426505225_UHD.jpg)  
