@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20230712 | [Hong Kong SAR (© leungchopan/Getty Images)](https://cn.bing.com/th?id=OHR.WorldPopDay_EN-US3018429136_UHD.jpg)  
 20230711 | [Field of lavender, Somerset, England (© Doug Chinnery/Getty Images)](https://cn.bing.com/th?id=OHR.SomersetLavender_EN-US0165780359_UHD.jpg)  
 20230710 | [Moselle River loop, Kröv, Germany (© Jorg Greuel/Getty Images)](https://cn.bing.com/th?id=OHR.MoselleRiver_EN-US2499319157_UHD.jpg)  
 20230709 | [Mildred B. Cooper Memorial Chapel, Bella Vista, Arkansas (© Eddie Brady/Getty Images)](https://cn.bing.com/th?id=OHR.CooperChapel_EN-US2412561000_UHD.jpg)  
