@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20230718 | [Cloughoughter Castle in Lough Oughter, County Cavan, Ireland (© 4H4 PH/Shutterstock)](https://cn.bing.com/th?id=OHR.CavanCastle_EN-US0493721152_UHD.jpg)  
 20230717 | [Bear Hole Brook, Catskill Mountains, New York (© GummyBone/Getty Images)](https://cn.bing.com/th?id=OHR.BearHoleBrook_EN-US0278547262_UHD.jpg)  
 20230716 | [Castelmezzano, Italy (© Rudy Balasko/Shutterstock)](https://cn.bing.com/th?id=OHR.CastelmazzanoSunrise_EN-US9968041695_UHD.jpg)  
 20230715 | [Blacktip reef sharks, Maldives (© Filippo Bacci/Getty Images)](https://cn.bing.com/th?id=OHR.BlacktipSharks_EN-US9224288033_UHD.jpg)  
