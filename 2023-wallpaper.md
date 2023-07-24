@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20230724 | [Edinburgh Tea Estate, Nuwara Eliya, Sri Lanka (© Jeremy Woodhouse/Getty Images)](https://cn.bing.com/th?id=OHR.TeaEstate_EN-US1720005197_UHD.jpg)  
 20230723 | [Hammock camping in a bald cypress tree, Florida (© Mac Stone/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.HammockDay_EN-US1639653297_UHD.jpg)  
 20230722 | [Storseisundet Bridge, Atlantic Ocean Road, Norway (© Morten Falch Sortland/Getty Images)](https://cn.bing.com/th?id=OHR.BridgeNorway_EN-US1530199433_UHD.jpg)  
 20230721 | [The moon seen from the Orion spacecraft of NASA's Artemis mission (© NASA)](https://cn.bing.com/th?id=OHR.MoonDayArtemis_EN-US1226397186_UHD.jpg)  
