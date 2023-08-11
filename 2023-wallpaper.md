@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20230811 | [A lion in Maasai Mara, Kenya (© Scott Davis/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.WorldLionDay_EN-US3311213683_UHD.jpg)  
 20230810 | [Indigenous artwork, Ngaruwanajirri Art Centre, Wurrumiyanga, Bathurst Island, Australia (© Robert Wyatt/Alamy)](https://cn.bing.com/th?id=OHR.BathurstArt_EN-US3084378813_UHD.jpg)  
 20230809 | [Highways in Taipei, Taiwan (© Tavarius/Shutterstock)](https://cn.bing.com/th?id=OHR.InfinityTaipei_EN-US3008697284_UHD.jpg)  
 20230808 | [Bodie Island Lighthouse, Nags Head, North Carolina (© Michael Ver Sprill/Getty Images)](https://cn.bing.com/th?id=OHR.BodieNC_EN-US2693689463_UHD.jpg)  
