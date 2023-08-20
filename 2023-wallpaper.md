@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20230820 | [Squirrel looking into the lens of a camera (© Alfredo Piedrafita/Getty Images)](https://cn.bing.com/th?id=OHR.CameraSquirrel_EN-US0174540169_UHD.jpg)  
 20230819 | ['Avatar Mountains,' Zhangjiajie National Forest Park, China (© Amazing Aerial Premium/Shutterstock)](https://cn.bing.com/th?id=OHR.AvatarMountain_EN-US0084042494_UHD.jpg)  
 20230818 | [Giant sequoia trees in Sequoia and Kings Canyon National Parks, California (© lucky-photographer/Getty Images)](https://cn.bing.com/th?id=OHR.SequoiaSunlight_EN-US6214316930_UHD.jpg)  
 20230817 | [Overseas Highway in the Florida Keys (© Evgeny Vasenev/Cavan Images)](https://cn.bing.com/th?id=OHR.KeyWestBridge_EN-US9752501933_UHD.jpg)  
