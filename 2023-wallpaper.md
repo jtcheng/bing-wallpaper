@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20230821 | [Start Point Lighthouse, South Devon, England (© Guy Edwardes/Minden Pictures)](https://cn.bing.com/th?id=OHR.StartPointLight_EN-US0323042936_UHD.jpg)  
 20230820 | [Squirrel looking into the lens of a camera (© Alfredo Piedrafita/Getty Images)](https://cn.bing.com/th?id=OHR.CameraSquirrel_EN-US0174540169_UHD.jpg)  
 20230819 | ['Avatar Mountains,' Zhangjiajie National Forest Park, China (© Amazing Aerial Premium/Shutterstock)](https://cn.bing.com/th?id=OHR.AvatarMountain_EN-US0084042494_UHD.jpg)  
 20230818 | [Giant sequoia trees in Sequoia and Kings Canyon National Parks, California (© lucky-photographer/Getty Images)](https://cn.bing.com/th?id=OHR.SequoiaSunlight_EN-US6214316930_UHD.jpg)  
