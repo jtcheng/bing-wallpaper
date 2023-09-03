@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20230903 | [Allen's hummingbird, Santa Cruz, California (© mallardg500/Getty Images)](https://cn.bing.com/th?id=OHR.TinyHummer_EN-US3171586787_UHD.jpg)  
 20230902 | [Turkey tail mushroom, Brevard, North Carolina (© Bill Gozansky/Alamy)](https://cn.bing.com/th?id=OHR.TurkeyTailMush_EN-US2958542405_UHD.jpg)  
 20230901 | [Saguaro cacti, Ironwood National Monument, Arizona (© Jack Dykinga/Minden Pictures)](https://cn.bing.com/th?id=OHR.IronwoodCactus_EN-US2823371711_UHD.jpg)  
 20230831 | [Whale shark, Ningaloo Reef, Western Australia (© Jason Edwards/Getty Images)](https://cn.bing.com/th?id=OHR.NingalooShark_EN-US2673625094_UHD.jpg)  
