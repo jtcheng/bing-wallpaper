@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20230912 | [Brooklyn Bridge with the 'Tribute in Light' installation for 9/11, New York (© ANDREY DENISYUK/Getty Images)](https://cn.bing.com/th?id=OHR.BridgeMemorial_EN-US1953692613_UHD.jpg)  
 20230911 | [Walrus pair at sea in Svalbard, Norway (© Mark Smith/Getty Images)](https://cn.bing.com/th?id=OHR.WalrusSvalbard_EN-US1836032120_UHD.jpg)  
 20230910 | [Wat Chaiwatthanaram temple, Ayutthaya Historical Park, Thailand (© Weerasak Saeku/Getty Images)](https://cn.bing.com/th?id=OHR.AyutthayaTemple_EN-US1726415748_UHD.jpg)  
 20230909 | [The Circus townhouses in Bath, Somerset, England (© Gavin Hellier/Getty Images)](https://cn.bing.com/th?id=OHR.BathCircus_EN-US1560951776_UHD.jpg)  
