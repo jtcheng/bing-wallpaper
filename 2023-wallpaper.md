@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20230915 | [Przewalski's horses, Hustai National Park, Mongolia (© Ondrej Prosicky/Shutterstock)](https://cn.bing.com/th?id=OHR.MongoliaHorses_EN-US2400199558_UHD.jpg)  
 20230914 | [Temples on Hemakuta Hill, Hampi, Karnataka, India (© Images of india/Alamy)](https://cn.bing.com/th?id=OHR.HemakutaHill_EN-US2233323383_UHD.jpg)  
 20230913 | [North Sea at sunset, Norddorf, Amrum Island, Germany (© Frederick Doerschem/Getty Images)](https://cn.bing.com/th?id=OHR.NorthSeaStairs_EN-US2097672090_UHD.jpg)  
 20230912 | [Brooklyn Bridge with the 'Tribute in Light' installation for 9/11, New York (© ANDREY DENISYUK/Getty Images)](https://cn.bing.com/th?id=OHR.BridgeMemorial_EN-US1953692613_UHD.jpg)  
