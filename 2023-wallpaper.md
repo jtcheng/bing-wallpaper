@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20231005 | [Young stars forming in the Tarantula Nebula, James Webb Space Telescope (© NASA, ESA, CSA, STScI, Webb ERO Production Team)](https://cn.bing.com/th?id=OHR.TarantulaNebula_EN-US3085335513_UHD.jpg)  
 20231004 | [Whitehaven Beach, Whitsunday Island, Queensland, Australia (© Coral Brunner/Shutterstock)](https://cn.bing.com/th?id=OHR.WhitsundaySwirl_EN-US2946291997_UHD.jpg)  
 20231003 | [Louis Vuitton Foundation in the Bois de Boulogne, Paris, France (© Atlantide Phototravel/Getty Images)](https://cn.bing.com/th?id=OHR.VuittonFoundation_EN-US2808914200_UHD.jpg)  
 20231002 | [Lake Bled at sunrise, Slovenia (© Rasica/Getty Images)](https://cn.bing.com/th?id=OHR.LakeBledSunrise_EN-US2708574517_UHD.jpg)  
