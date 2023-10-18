@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20231018 | [Ancient carved texts from Persepolis, Iran (© George Hall/Alamy)](https://cn.bing.com/th?id=OHR.SpreadsheetDay_EN-US1385391820_UHD.jpg)  
 20231017 | [Golden larches and Prusik Peak, the Enchantments, Washington (© Jim Patterson/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.GoldenEnchantments_EN-US1308880623_UHD.jpg)  
 20231016 | [European hedgehog sheltering in tree bark, Sussex, England (© Jules Cox/Minden Pictures)](https://cn.bing.com/th?id=OHR.AutumnHedgehog_EN-US1171311197_UHD.jpg)  
 20231015 | ['Ring of fire' annular solar eclipse, Doha, Qatar (© Sorin Furcoi/Getty Images)](https://cn.bing.com/th?id=OHR.RingEclipse_EN-US1077107553_UHD.jpg)  
