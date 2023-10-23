@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20231023 | [Astoria-Megler Bridge on the Columbia River, Astoria, Oregon (© Dan Mihai/Getty Images)](https://cn.bing.com/th?id=OHR.AstoriaBridge_EN-US9518437970_UHD.jpg)  
 20231022 | [Reliefs in the ancient Persian city of Persepolis, Iran (© Ozbalci/Getty Images)](https://cn.bing.com/th?id=OHR.PersepolisRelief_EN-US9435779068_UHD.jpg)  
 20231021 | [Pygmy three-toed sloth baby, Isla Escudo de Veraguas, Panama (© Suzi Eszterhas/Minden Pictures)](https://cn.bing.com/th?id=OHR.PygmySloth_EN-US9345280015_UHD.jpg)  
 20231020 | [Water lily harvest, Mekong River Delta, Long An, Vietnam (© Khanh Phan/Solent News/Shutterstock)](https://cn.bing.com/th?id=OHR.WaterLilyVietnam_EN-US1552107370_UHD.jpg)  
