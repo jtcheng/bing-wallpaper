@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20231026 | [Cottonwood trees in Grand Staircase-Escalante National Monument, Utah (© Jeff Foott/Minden Pictures)](https://cn.bing.com/th?id=OHR.GrandStaircase_EN-US9984560349_UHD.jpg)  
 20231025 | [Füzér Castle in the Zemplén Mountains, Hungary (© ZGPhotography/Alamy)](https://cn.bing.com/th?id=OHR.FuzerCastle_EN-US9918819618_UHD.jpg)  
 20231024 | [Corn maze in Saylorsburg, Pennsylvania (© Alex Potemkin/Getty Images)](https://cn.bing.com/th?id=OHR.PoconosMaze_EN-US4210947594_UHD.jpg)  
 20231023 | [Astoria-Megler Bridge on the Columbia River, Astoria, Oregon (© Dan Mihai/Getty Images)](https://cn.bing.com/th?id=OHR.AstoriaBridge_EN-US9518437970_UHD.jpg)  
