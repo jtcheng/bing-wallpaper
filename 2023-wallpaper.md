@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20231027 | [Autumn foliage in Schönbrunn Palace Park, Vienna, Austria (© rusm/Getty Images)](https://cn.bing.com/th?id=OHR.ViennaAutumn_EN-US0101367282_UHD.jpg)  
 20231026 | [Cottonwood trees in Grand Staircase-Escalante National Monument, Utah (© Jeff Foott/Minden Pictures)](https://cn.bing.com/th?id=OHR.GrandStaircase_EN-US9984560349_UHD.jpg)  
 20231025 | [Füzér Castle in the Zemplén Mountains, Hungary (© ZGPhotography/Alamy)](https://cn.bing.com/th?id=OHR.FuzerCastle_EN-US9918819618_UHD.jpg)  
 20231024 | [Corn maze in Saylorsburg, Pennsylvania (© Alex Potemkin/Getty Images)](https://cn.bing.com/th?id=OHR.PoconosMaze_EN-US4210947594_UHD.jpg)  
