@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20231102 | [Mummy Cave ruins, Canyon de Chelly National Monument, Arizona (© Cindy Miller Hopkins/Danita Delimont)](https://cn.bing.com/th?id=OHR.MummyCaveRuins_EN-US0871963100_UHD.jpg)  
 20231101 | [Halloween jack-o'-lanterns on a porch (© Bing Image Creator)](https://cn.bing.com/th?id=OHR.HalloweenPorchAI_EN-US0776611565_UHD.jpg)  
 20231031 | [Common raven sitting on a branch (© WildMedia/Shutterstock)](https://cn.bing.com/th?id=OHR.AutumnRaven_EN-US0686194098_UHD.jpg)  
 20231030 | [Bonaventure Cemetery, Savannah, Georgia (© Kelly vanDellen/Alamy)](https://cn.bing.com/th?id=OHR.SavannahSculpture_EN-US0375520303_UHD.jpg)  
