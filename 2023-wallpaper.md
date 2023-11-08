@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20231108 | [Kirkilai lakes and lookout tower, Biržai Regional Park, Lithuania (© MNStudio/Shutterstock)](https://cn.bing.com/th?id=OHR.KirkilaiTower_EN-US7178436226_UHD.jpg)  
 20231107 | [Lake Pehoé, Torres del Paine National Park, Chile (© OST/Getty Images)](https://cn.bing.com/th?id=OHR.LagoPehoe_EN-US6983781896_UHD.jpg)  
 20231106 | [Quartzite formation, Playa del Silencio, Asturias, Spain (© Jean-Philippe Delobelle/Minden Pictures)](https://cn.bing.com/th?id=OHR.SilencioSpain_EN-US6874925537_UHD.jpg)  
 20231105 | [American bison, Yellowstone National Park, Wyoming (© Gary Gray/Getty Images)](https://cn.bing.com/th?id=OHR.BisonSnow_EN-US6764351912_UHD.jpg)  
