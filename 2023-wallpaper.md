@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20231113 | [Lamps on the banks of the Sarayu River for Diwali, Ayodhya, India (© SANJAY KANOJIA/AFP/Getty Images)](https://cn.bing.com/th?id=OHR.DiwaliAyodhya_EN-US7782727326_UHD.jpg)  
 20231112 | [Sunset at the Washington Monument, Washington, DC (© Joe Daniel Price/Getty Images)](https://cn.bing.com/th?id=OHR.VeteransDayDC_EN-US7666353324_UHD.jpg)  
 20231111 | [Badlands National Park, South Dakota (© Grant Ordelheide/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.BadlandsSunrise_EN-US7576048436_UHD.jpg)  
 20231110 | [Birch trees in autumn, Drammen, Norway (© Baac3nes/Getty Images)](https://cn.bing.com/th?id=OHR.NorwayBirch_EN-US7497125692_UHD.jpg)  
