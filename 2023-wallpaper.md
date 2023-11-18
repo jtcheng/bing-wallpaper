@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20231118 | [Bad River in Copper Falls State Park, Wisconsin (© Big Joe/Getty Images)](https://cn.bing.com/th?id=OHR.BadRiver_EN-US1270508214_UHD.jpg)  
 20231117 | [View over Athens and the Acropolis, Greece (© Mlenny/Getty Images)](https://cn.bing.com/th?id=OHR.AthensAcropolis_EN-US8385195396_UHD.jpg)  
 20231116 | [Rapa Valley in Sarek National Park, Sweden (© Hans Strand/Getty Images)](https://cn.bing.com/th?id=OHR.SarekSweden_EN-US8292531624_UHD.jpg)  
 20231115 | [Russell lupines along Lake Tekapo, South Island, New Zealand (© Jeffrey Lewis/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.RussellLupines_EN-US8017518812_UHD.jpg)  
