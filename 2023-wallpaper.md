@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20231202 | [Iceberg in the Ross Sea, Antarctica (© Michel Roggo/Minden Pictures)](https://cn.bing.com/th?id=OHR.IcebergAntarctica_EN-US8733526190_UHD.jpg)  
 20231201 | [The Storr, a rock outcrop on the Isle of Skye, Scotland (© Juan Maria Coy Vergara/Getty Images)](https://cn.bing.com/th?id=OHR.TrotternishStorr_EN-US4700593682_UHD.jpg)  
 20231130 | [Rockefeller Center Christmas tree, New York City (© Jonathan Orenstein/Getty Images)](https://cn.bing.com/th?id=OHR.TreeLighting_EN-US4396317497_UHD.jpg)  
 20231129 | [Giant land art fresco by artist Saype in Istanbul, Türkiye (© Chris McGrath/Getty Images)](https://cn.bing.com/th?id=OHR.HumanKindness_EN-US4254216907_UHD.jpg)  
