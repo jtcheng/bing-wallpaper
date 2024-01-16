@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20240116 | [Martin Luther King Jr. Memorial, Washington, DC (© kropic1/Shutterstock)](https://cn.bing.com/th?id=OHR.MLKMemorialDC_EN-US1038696225_UHD.jpg)  
 20240115 | [Whooper swans in Lake Kussharo, Japan (© Darrell Gulin/DanitaDelimont.com)](https://cn.bing.com/th?id=OHR.HokkaidoSwans_EN-US0905932812_UHD.jpg)  
 20240114 | [Road to Hana, Maui, Hawaii (© Matteo Colombo/Getty Images)](https://cn.bing.com/th?id=OHR.HanaHighway_EN-US0637770298_UHD.jpg)  
 20240113 | [Bukhansan National Park, South Korea (© TRAVEL TAKE PHOTOS/Shutterstock)](https://cn.bing.com/th?id=OHR.BukhansanSeoul_EN-US0422922586_UHD.jpg)  
