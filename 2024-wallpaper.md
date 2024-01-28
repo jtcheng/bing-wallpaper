@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20240128 | [Ice palace at the St. Paul Winter Carnival, Minnesota (© Joe Mamer Photography/Alamy)](https://cn.bing.com/th?id=OHR.WinterCarnival_EN-US6859361078_UHD.jpg)  
 20240127 | [Northern hawk-owl (© Remo Savisaar/Alamy)](https://cn.bing.com/th?id=OHR.HawkOwl_EN-US6646901652_UHD.jpg)  
 20240126 | [Ruins of St. Dwynwen's Church, Ynys Llanddwyn, Wales (© Photos by R A Kearton/Getty Images)](https://cn.bing.com/th?id=OHR.DwynwensDay_EN-US2844762878_UHD.jpg)  
 20240125 | [Diamond Beach, Iceland (© Rachid Dahnoun/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.IcelandBeach_EN-US2647667820_UHD.jpg)  
