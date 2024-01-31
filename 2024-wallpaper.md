@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20240131 | [Aýna, Sierra del Segura, Albacete, Spain (© Juan Maria Coy Vergara/Getty Images)](https://cn.bing.com/th?id=OHR.AlbaceteSpain_EN-US7443919036_UHD.jpg)  
 20240130 | [Golling Waterfall, Tennengau, Salzburg, Austria (© Frank Fischbach/Alamy)](https://cn.bing.com/th?id=OHR.GollingerFalls_EN-US7184224692_UHD.jpg)  
 20240129 | [Channel Country, Outback Queensland, Australia (© Southern Lightscapes-Australia/Getty Images)](https://cn.bing.com/th?id=OHR.ChannelOutback_EN-US7094425288_UHD.jpg)  
 20240128 | [Ice palace at the St. Paul Winter Carnival, Minnesota (© Joe Mamer Photography/Alamy)](https://cn.bing.com/th?id=OHR.WinterCarnival_EN-US6859361078_UHD.jpg)  
