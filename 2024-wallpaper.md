@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20240201 | [Burchell's zebra mother and foal, Rietvlei Nature Reserve, South Africa (© Richard Du Toit/Minden Pictures)](https://cn.bing.com/th?id=OHR.ZebraMother_EN-US7544209908_UHD.jpg)  
 20240131 | [Aýna, Sierra del Segura, Albacete, Spain (© Juan Maria Coy Vergara/Getty Images)](https://cn.bing.com/th?id=OHR.AlbaceteSpain_EN-US7443919036_UHD.jpg)  
 20240130 | [Golling Waterfall, Tennengau, Salzburg, Austria (© Frank Fischbach/Alamy)](https://cn.bing.com/th?id=OHR.GollingerFalls_EN-US7184224692_UHD.jpg)  
 20240129 | [Channel Country, Outback Queensland, Australia (© Southern Lightscapes-Australia/Getty Images)](https://cn.bing.com/th?id=OHR.ChannelOutback_EN-US7094425288_UHD.jpg)  
