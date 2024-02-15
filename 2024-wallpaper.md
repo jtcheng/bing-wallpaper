@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20240215 | [Red-crowned crane bowing to his mate in Hokkaido, Japan (© Steve Bloom Images/Alamy)](https://cn.bing.com/th?id=OHR.BowingCrane_EN-US7534977512_UHD.jpg)  
 20240214 | [Mardi Gras beads in the Marigny, New Orleans (© Erik Pronske Photography/Getty Images)](https://cn.bing.com/th?id=OHR.MarignyBeads_EN-US7464992774_UHD.jpg)  
 20240213 | [Volcán Alcedo giant tortoises, Isabela Island, Galápagos, Ecuador (© Tui De Roy/Minden Pictures)](https://cn.bing.com/th?id=OHR.GiantTortoise_EN-US7034846255_UHD.jpg)  
 20240212 | [Chora, Folegandros Island, Cyclades, Greece (© Francesco Riccardo Iacomino/Getty Images)](https://cn.bing.com/th?id=OHR.FolegandrosGreece_EN-US6921652492_UHD.jpg)  
