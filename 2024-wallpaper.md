@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20240225 | [Almond trees in full bloom, California (© Jeffrey Lewis/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.AlmondBloom_EN-US2721273642_UHD.jpg)  
 20240224 | [Haghartsin Monastery, Dilijan National Park, Armenia (© Alexey Kharitonov/Shutterstock)](https://cn.bing.com/th?id=OHR.HaghartsinMonastery_EN-US2523109486_UHD.jpg)  
 20240223 | [Bathing boxes at Brighton Beach, Melbourne, Victoria, Australia (© Prasit photo/Getty Images)](https://cn.bing.com/th?id=OHR.BrightonBoxes_EN-US7951266383_UHD.jpg)  
 20240222 | [Firefall at Horsetail Fall, Yosemite National Park, California (© Gregory B Cuvelier/Shutterstock)](https://cn.bing.com/th?id=OHR.YosemiteFirefall_EN-US8169903146_UHD.jpg)  
