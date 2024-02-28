@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20240228 | [Polar bear cubs playing, Kaktovik, Alaska (© Piriya Photography/Getty Images)](https://cn.bing.com/th?id=OHR.PolarBearCubs_EN-US3160537454_UHD.jpg)  
 20240227 | [Grand Canyon National Park, Arizona (© Jeremy Janus/Getty Images)](https://cn.bing.com/th?id=OHR.GrandCanyonWinter_EN-US3010552047_UHD.jpg)  
 20240226 | ['United We Stand' sculpture by Charles McGee, Charles H. Wright Museum of African American History, Detroit, Michigan (© Jim West/Alamy)](https://cn.bing.com/th?id=OHR.WrightSculpture_EN-US2897504160_UHD.jpg)  
 20240225 | [Almond trees in full bloom, California (© Jeffrey Lewis/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.AlmondBloom_EN-US2721273642_UHD.jpg)  
