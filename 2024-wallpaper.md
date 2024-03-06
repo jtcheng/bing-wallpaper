@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20240306 | [Traffic circle and highway in Bangkok, Thailand (© Avigator Fortuner/Shutterstock)](https://cn.bing.com/th?id=OHR.BangkokCircle_EN-US4243452532_UHD.jpg)  
 20240305 | [Arenal Volcano seen from Monteverde, Costa Rica (© Lukas Bischoff/Getty Images)](https://cn.bing.com/th?id=OHR.ArenalCostaRica_EN-US4075825664_UHD.jpg)  
 20240304 | [Leopard in a tree, Kruger National Park, South Africa (© Tonino De Marco/Minden Pictures)](https://cn.bing.com/th?id=OHR.KrugerLeopard_EN-US3980767237_UHD.jpg)  
 20240303 | [Modica, Sicily, Italy (© Sandro Bisaro/Getty Images)](https://cn.bing.com/th?id=OHR.ModicaItaly_EN-US3843446204_UHD.jpg)  
