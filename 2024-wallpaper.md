@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20240311 | [San Jacinto Building's mechanical clock, Beaumont, Texas (© Richard T. Nowitz/Getty Images)](https://cn.bing.com/th?id=OHR.BeaumontClock_EN-US1267001824_UHD.jpg)  
 20240310 | [Bisti/De-Na-Zin Wilderness Area, New Mexico (© Ian Shive/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.BistiBlue_EN-US1090853434_UHD.jpg)  
 20240309 | [Tate Modern lit up for International Women's Day, London, England (© Stephen Chung/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.TateLightUp_EN-US0656439011_UHD.jpg)  
 20240308 | [Roques de Benet, Els Ports Natural Park, Catalonia, Spain (© Sergi Boixader/Alamy)](https://cn.bing.com/th?id=OHR.TarragonaSpain_EN-US4664908149_UHD.jpg)  
