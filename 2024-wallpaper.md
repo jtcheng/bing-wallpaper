@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20240323 | [Blue Spring, Te Waihou Walkway, New Zealand (© Ian Beattie/Alamy)](https://cn.bing.com/th?id=OHR.WaikatoWater_EN-US1360247236_UHD.jpg)  
 20240322 | [Bwindi Impenetrable National Forest, Uganda (© Art Wolfe/DanitaDelimont.com)](https://cn.bing.com/th?id=OHR.BwindiNationalForest_EN-US3376071902_UHD.jpg)  
 20240321 | [The Jefferson Memorial during the Cherry Blossom Festival, Washington, DC (© f11photo/Shutterstock)](https://cn.bing.com/th?id=OHR.CherryBlossomsDC_EN-US3285783737_UHD.jpg)  
 20240320 | [Tree frog on leaf (© Tetsuya Tanooka/DEEPOL by plainpicture)](https://cn.bing.com/th?id=OHR.SpringFrog_EN-US7109699294_UHD.jpg)  
