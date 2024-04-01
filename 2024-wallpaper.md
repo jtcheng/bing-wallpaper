@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20240401 | [Easter eggs painted by Tünde Csuhaj, Szekszárd, Hungary (© ATTILA KISBENEDEK/AFP/Getty Images)](https://cn.bing.com/th?id=OHR.HungarianEggs_EN-US3026213374_UHD.jpg)  
 20240331 | [Brown-throated three-toed sloth sleeping in cecropia tree, Costa Rica (© Juan Carlos Vindas/Getty Images)](https://cn.bing.com/th?id=OHR.SleepySloth_EN-US2834457510_UHD.jpg)  
 20240330 | [South Stack Lighthouse at sunset, Holy Island, Wales (© mariotlr/Getty Images)](https://cn.bing.com/th?id=OHR.SouthStackLight_EN-US2733077237_UHD.jpg)  
 20240329 | [Cherry blossoms in Shanghai, China (© Yaorusheng/Getty Images)](https://cn.bing.com/th?id=OHR.ShanghaiBlossoms_EN-US2613653434_UHD.jpg)  
