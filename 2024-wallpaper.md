@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20240409 | [Total solar eclipse photographed from Madras, Oregon on August 21, 2017 (© NASA/Aubrey Gemignani)](https://cn.bing.com/th?id=OHR.SolarEclipseOregon_EN-US2134131862_UHD.jpg)  
 20240408 | [North American beaver in a pond near Wonder Lake, Denali National Park, Alaska (© Paul Souders/Getty Images)](https://cn.bing.com/th?id=OHR.BeaverDenali_EN-US1894047698_UHD.jpg)  
 20240407 | [Himeji Castle, Himeji, Hyōgo Prefecture, Japan (© Julian Elliott Photography/Getty Images)](https://cn.bing.com/th?id=OHR.JapanHimeji_EN-US1768279571_UHD.jpg)  
 20240406 | [The Bahamas photographed from the International Space Station (© NASA)](https://cn.bing.com/th?id=OHR.BahamasSpace_EN-US1544254149_UHD.jpg)  
