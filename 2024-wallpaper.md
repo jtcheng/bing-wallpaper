@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20240503 | [Blue Dragon Lava Flow, Craters of the Moon National Monument, Idaho (© Alan Majchrowicz/Getty Images)](https://cn.bing.com/th?id=OHR.CratersOfTheMoon_EN-US6516727783_UHD.jpg)  
 20240502 | [Hawaiian lei flower garlands (© Jotika Pun/Shutterstock)](https://cn.bing.com/th?id=OHR.HawaiianLei_EN-US6290126556_UHD.jpg)  
 20240501 | [Cheetah in morning rain, Ndutu Plains, Ngorongoro Conservation Area, Tanzania (© Paul Souders/Getty Images)](https://cn.bing.com/th?id=OHR.CheetahRain_EN-US6179670004_UHD.jpg)  
 20240430 | [Fujian Tulou complex of historical and cultural heritage buildings in Fujian province, China (© Hongjie Han/Getty Images)](https://cn.bing.com/th?id=OHR.TulouFujian_EN-US6009679228_UHD.jpg)  
