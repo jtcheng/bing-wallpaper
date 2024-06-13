@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20240613 | [Milky Way over Big Bend National Park, Texas (© wisanuboonrawd/Adobe Stock)](https://cn.bing.com/th?id=OHR.BigBendMilkyWay_EN-US7213876995_UHD.jpg)  
 20240612 | [Southern gemsbok in the savanna, Botswana (© Karine Aigner/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.GemsbokBotswana_EN-US7126985499_UHD.jpg)  
 20240611 | [Osaka at night, Japan (© wichianduangsri/Getty Images)](https://cn.bing.com/th?id=OHR.OsakaNight_EN-US7022302235_UHD.jpg)  
 20240610 | [Bardenas Reales Biosphere Reserve and Natural Park, Bardenas, Navarra, Spain (© Aliaume Chapelle/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.BardenasBiosphere_EN-US6936891495_UHD.jpg)  
