@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20240619 | [Lupine fields and church at sunrise, Snæfellsnes Peninsula, Iceland (© Matteo Colombo/Getty Images)](https://cn.bing.com/th?id=OHR.LupinIceland_EN-US0093427185_UHD.jpg)  
 20240618 | [Green-crowned brilliant hummingbird with giant thistle, Cerro de la Muerte, Costa Rica (© adrian hepworth/Alamy)](https://cn.bing.com/th?id=OHR.HummingThistle_EN-US9897642087_UHD.jpg)  
 20240617 | [Red fox father and kit, Washington (© Chase Dekker/Minden Pictures)](https://cn.bing.com/th?id=OHR.RedFoxDad_EN-US9773161483_UHD.jpg)  
 20240616 | [Surfer riding a wave in Nazaré, Portugal (© Rui Caria/Getty Images)](https://cn.bing.com/th?id=OHR.NazareWave_EN-US9510827848_UHD.jpg)  
