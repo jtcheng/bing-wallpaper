@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20240622 | [Reticulated giraffe mother greeting calf, Lewa Wildlife Conservancy, Kenya (© Sean Crane/Minden Pictures)](https://cn.bing.com/th?id=OHR.LewaGiraffe_EN-US0571205457_UHD.jpg)  
 20240621 | [Kokino, an ancient megalithic observatory, North Macedonia (© stoimilov/Shutterstock)](https://cn.bing.com/th?id=OHR.KokinoMacedonia_EN-US0466604378_UHD.jpg)  
 20240620 | [Jacob Lawrence's mosaic 'Community,' Joseph P. Addabbo Federal Building, Jamaica, Queens, New York (© Alpha Stock/Alamy)](https://cn.bing.com/th?id=OHR.LawrenceMosaic_EN-US0314379909_UHD.jpg)  
 20240619 | [Lupine fields and church at sunrise, Snæfellsnes Peninsula, Iceland (© Matteo Colombo/Getty Images)](https://cn.bing.com/th?id=OHR.LupinIceland_EN-US0093427185_UHD.jpg)  
