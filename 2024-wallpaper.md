@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20240628 | [Duomo Santa Maria del Fiore at dusk, Florence, Italy (© Elena Pueyo/Getty Images)](https://cn.bing.com/th?id=OHR.FlorenceDuomo_EN-US1448955167_UHD.jpg)  
 20240627 | [Juvenile Banggai cardinalfish with sea anemone, Lembeh Strait, North Sulawesi, Indonesia (© Constantinos Petrinos/NPL/Minden Pictures)](https://cn.bing.com/th?id=OHR.CardinalfishAnemone_EN-US1278259894_UHD.jpg)  
 20240626 | [Fire Wave, a rock formation in Valley of Fire State Park, Nevada (© Clint Losee/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.FireWave_EN-US1154414797_UHD.jpg)  
 20240625 | [Volcanic crater lakes on Kelimutu, Flores, Indonesia (© Shane P. White/Minden Pictures)](https://cn.bing.com/th?id=OHR.FloresIsland_EN-US1042279828_UHD.jpg)  
