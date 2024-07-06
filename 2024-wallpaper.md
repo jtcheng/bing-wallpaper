@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20240706 | [Noah Beach in Daintree Rainforest, Queensland, Australia (© bjeayes/Getty Images)](https://cn.bing.com/th?id=OHR.NoahBeach_EN-US4383778312_UHD.jpg)  
 20240705 | [Fireworks over the Hudson River on the Fourth of July, New York (© New York on Air/Shutterstock)](https://cn.bing.com/th?id=OHR.HudsonFireworks_EN-US4304057228_UHD.jpg)  
 20240704 | [Meerkat family (© anetapics/Shutterstock)](https://cn.bing.com/th?id=OHR.MeerkatManor_EN-US4231814766_UHD.jpg)  
 20240703 | [The Roman amphitheater of Italica, near Seville, Spain (© Moses Palermo/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.ItalicaRuins_EN-US4110786318_UHD.jpg)  
