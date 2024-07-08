@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20240708 | [Rice terraces of Mù Cang Chải, Yên Bái province, Vietnam (© Kiatanan Sugsompian/Getty Images)](https://cn.bing.com/th?id=OHR.YenBaiTerraces_EN-US4542290370_UHD.jpg)  
 20240707 | [Conwy Castle looking over the River Conwy, Wales (© David Chapman/Alamy)](https://cn.bing.com/th?id=OHR.ConwyRiver_EN-US4472231451_UHD.jpg)  
 20240706 | [Noah Beach in Daintree Rainforest, Queensland, Australia (© bjeayes/Getty Images)](https://cn.bing.com/th?id=OHR.NoahBeach_EN-US4383778312_UHD.jpg)  
 20240705 | [Fireworks over the Hudson River on the Fourth of July, New York (© New York on Air/Shutterstock)](https://cn.bing.com/th?id=OHR.HudsonFireworks_EN-US4304057228_UHD.jpg)  
