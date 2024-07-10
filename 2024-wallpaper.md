@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20240710 | [Talampaya National Park, La Rioja province, Argentina (© Gonzalo Azumendi/Getty Images)](https://cn.bing.com/th?id=OHR.TalampayaNP_EN-US4761770918_UHD.jpg)  
 20240709 | [Blueberries growing in the wild (© Baac3nes/Getty Images)](https://cn.bing.com/th?id=OHR.NorwayBlueberries_EN-US4598733420_UHD.jpg)  
 20240708 | [Rice terraces of Mù Cang Chải, Yên Bái province, Vietnam (© Kiatanan Sugsompian/Getty Images)](https://cn.bing.com/th?id=OHR.YenBaiTerraces_EN-US4542290370_UHD.jpg)  
 20240707 | [Conwy Castle looking over the River Conwy, Wales (© David Chapman/Alamy)](https://cn.bing.com/th?id=OHR.ConwyRiver_EN-US4472231451_UHD.jpg)  
