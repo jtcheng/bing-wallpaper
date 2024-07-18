@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20240718 | [Medieval city of Rothenburg ob der Tauber, Germany (© kanuman/Getty Images)](https://cn.bing.com/th?id=OHR.MedievalRothenburg_EN-US8575765997_UHD.jpg)  
 20240717 | [The Neolithic settlement of Skara Brae, Orkney, Scotland (© Paul Williams - FunkyStock/Getty Images)](https://cn.bing.com/th?id=OHR.AncientOrkney_EN-US8469766447_UHD.jpg)  
 20240716 | [Tateishi Park, Kanagawa Prefecture, Japan (© blew_s/Shutterstock)](https://cn.bing.com/th?id=OHR.TateishiPark_EN-US8384642632_UHD.jpg)  
 20240715 | [Volcanic vineyard in the La Geria wine region of Lanzarote, Canary Islands, Spain (© Pol Albarrán/Getty Images)](https://cn.bing.com/th?id=OHR.LaGeriaLanzarote_EN-US4849523931_UHD.jpg)  
