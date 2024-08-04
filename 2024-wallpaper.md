@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20240804 | [Three Natural Bridges, Wulong Karst National Geology Park, China (© Pav-Pro Photography Ltd/Shutterstock)](https://cn.bing.com/th?id=OHR.WulongKarst_EN-US6752358338_UHD.jpg)  
 20240803 | [Trunk Bay, St. John, Virgin Islands National Park (© cdwheatley/Getty Images)](https://cn.bing.com/th?id=OHR.TrunkBay_EN-US6585719799_UHD.jpg)  
 20240802 | [Floating market, Kaptai Lake, Rangamati, Bangladesh (© Azim Khan Ronnie/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.KaptaiLake_EN-US6490685268_UHD.jpg)  
 20240801 | [Hoodoos, Sunset Point, Bryce Canyon National Park, Utah (© Tim Fitzharris/Minden Pictures)](https://cn.bing.com/th?id=OHR.HoodoosBryce_EN-US6434628044_UHD.jpg)  
