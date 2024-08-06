@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20240806 | [Lavender field, Hertfordshire, England (© George W Johnson/Getty Images)](https://cn.bing.com/th?id=OHR.HertfordshireLavender_EN-US6911884438_UHD.jpg)  
 20240805 | [Impala and red-billed oxpecker, South Africa (© Matrishva Vyas/Getty Images)](https://cn.bing.com/th?id=OHR.ImpalaOxpecker_EN-US6835989068_UHD.jpg)  
 20240804 | [Three Natural Bridges, Wulong Karst National Geology Park, China (© Pav-Pro Photography Ltd/Shutterstock)](https://cn.bing.com/th?id=OHR.WulongKarst_EN-US6752358338_UHD.jpg)  
 20240803 | [Trunk Bay, St. John, Virgin Islands National Park (© cdwheatley/Getty Images)](https://cn.bing.com/th?id=OHR.TrunkBay_EN-US6585719799_UHD.jpg)  
