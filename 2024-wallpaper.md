@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20240814 | [Cliffs of Telašćica Nature Park, Dugi Otok Island, Croatia (© Ilija Ascic/Shutterstock)](https://cn.bing.com/th?id=OHR.DugiOtokCroatia_EN-US1981524043_UHD.jpg)  
 20240813 | [African elephants, Amboseli National Park, Kenya (© Ruzdi Ekenheim/Getty Images)](https://cn.bing.com/th?id=OHR.ElephantsAmboseli_EN-US1913542949_UHD.jpg)  
 20240812 | [Wooden path to Kennedy Lake, Vancouver Island, BC, Canada (© EB Adventure Photography/Shutterstock)](https://cn.bing.com/th?id=OHR.TofinoVancouver_EN-US1466348668_UHD.jpg)  
 20240811 | [Joshua Tree National Park, California (© Chris Moore - Exploring Light Photography/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.JoshuaTreeNP_EN-US1399159741_UHD.jpg)  
