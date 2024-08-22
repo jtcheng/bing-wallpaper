@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20240822 | [Nazca boobies, Wolf Island, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)](https://cn.bing.com/th?id=OHR.NazcaBooby_EN-US0971401791_UHD.jpg)  
 20240821 | [Sunrise at Grand Teton National Park, Wyoming (© Kurt Budliger/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.TetonSunrise_EN-US0849252457_UHD.jpg)  
 20240820 | [Museum of Flight, Seattle, Washington (© George Rose/Getty Images)](https://cn.bing.com/th?id=OHR.FlightMuseum_EN-US0151236175_UHD.jpg)  
 20240819 | [Huntington Beach Pier, California, at sunset (© Stan Moniz Photography/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.HuntingtonBeach_EN-US9892577517_UHD.jpg)  
