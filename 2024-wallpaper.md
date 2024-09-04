@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20240904 | [Crystal Lake in the Enchantments, Alpine Lakes Wilderness, Washington (© Mitch Pittman/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.AlpineLakes_EN-US9676616320_UHD.jpg)  
 20240903 | ['Power of the Titans' mural by Andrei Krautsou, North Kansas City, Missouri (© Stephen Taylor/Alamy)](https://cn.bing.com/th?id=OHR.KansasMural_EN-US9504361321_UHD.jpg)  
 20240902 | [River Thames, London, England (© Puthipong Worasaran/Getty Images)](https://cn.bing.com/th?id=OHR.ThamesLondon_EN-US9385705885_UHD.jpg)  
 20240901 | [Rock formations and sand dunes in the Sahara, Tassili n’Ajjer, Algeria (© Airpano/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.DjanetAlgeria_EN-US9175224323_UHD.jpg)  
