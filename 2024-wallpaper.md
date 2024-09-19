@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20240919 | [Gujō Hachiman Castle, Gifu prefecture, Japan (© ta2funk ito/500px/Getty Images)](https://cn.bing.com/th?id=OHR.GujoHachiman_EN-US5502837623_UHD.jpg)  
 20240918 | [Mid-Autumn Festival in Gardens by the Bay, Singapore (© Victor Y. Zhuo/Alamy)](https://cn.bing.com/th?id=OHR.MidAutumnSingapore_EN-US5283310908_UHD.jpg)  
 20240917 | [Wallabies at sunrise, Adelaide River, Northern Territory, Australia (© Jeremy Woodhouse/Getty Images)](https://cn.bing.com/th?id=OHR.SunriseWallabies_EN-US5210230008_UHD.jpg)  
 20240916 | [Casa del Prado, Balboa Park, San Diego, California (© f11photo/Getty Images)](https://cn.bing.com/th?id=OHR.BalboaPark_EN-US5050015037_UHD.jpg)  
