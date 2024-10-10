@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20241010 | [Aspens in the White River National Forest, Colorado (© Jason Hatfield/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.AspensColorado_EN-US9105602602_UHD.jpg)  
 20241009 | [Mototi octopus, Lembeh Strait, Indonesia (© Howard Chew/Alamy)](https://cn.bing.com/th?id=OHR.MototiOctopus_EN-US8820270832_UHD.jpg)  
 20241008 | [The Elbphilharmonie concert hall in Hamburg, Germany (© Canetti/Shutterstock)](https://cn.bing.com/th?id=OHR.ElbePhilharmonic_EN-US8658450086_UHD.jpg)  
 20241007 | [Sorano, Tuscany, Italy (© Luigi Vaccarella/eStock Photo)](https://cn.bing.com/th?id=OHR.SoranoItaly_EN-US2208208147_UHD.jpg)  
