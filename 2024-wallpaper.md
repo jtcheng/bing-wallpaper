@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20241025 | [Bodie State Historic Park, Mono County, California (© Julien McRoberts/Tetra Images, LLC/Alamy)](https://cn.bing.com/th?id=OHR.BodieCalifornia_EN-US3185568116_UHD.jpg)  
 20241024 | [Madame Sherri Forest and the ruins of an old castle, New Hampshire (© yggdrasill/Shutterstock)](https://cn.bing.com/th?id=OHR.MadameSherriCastle_EN-US3066456106_UHD.jpg)  
 20241023 | [Palazzo Zuccari, Rome, Italy (© Photon-Photos/Getty Images)](https://cn.bing.com/th?id=OHR.MonsterDoor_EN-US2973387472_UHD.jpg)  
 20241022 | [Cypress trees in George L. Smith State Park, Georgia (© Chris Moore/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.AutumnCypress_EN-US2771131028_UHD.jpg)  
