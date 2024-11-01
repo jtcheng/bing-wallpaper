@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20241101 | [Chimera of Notre-Dame de Paris, France (© scaliger/Getty Images)](https://cn.bing.com/th?id=OHR.GargoyleParis_EN-US4049828558_UHD.jpg)  
 20241031 | [View of Edinburgh Castle from a churchyard in Scotland (© Chris Dorney/Alamy)](https://cn.bing.com/th?id=OHR.HauntedEdinburgh_EN-US3906244993_UHD.jpg)  
 20241030 | [Great horned owl (© Mark Newman/Getty Images)](https://cn.bing.com/th?id=OHR.GreatOwl_EN-US3778222109_UHD.jpg)  
 20241029 | [Pumpkin field, Victoria, British Columbia, Canada (© Shaun Cunningham/Alamy)](https://cn.bing.com/th?id=OHR.PumpkinMist_EN-US3686565863_UHD.jpg)  
