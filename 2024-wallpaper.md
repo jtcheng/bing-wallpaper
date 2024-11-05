@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20241105 | [Grasmere, Lake District, Cumbria, England (© Thomas Molyneux/Getty Images)](https://cn.bing.com/th?id=OHR.CumbriaAutumn_EN-US4102686749_UHD.jpg)  
 20241104 | [Caribbean flamingo nests, Ría Lagartos Biosphere Reserve, Yucatán, Mexico (© Claudio Contreras/Minden Pictures)](https://cn.bing.com/th?id=OHR.YucatanBiosphere_EN-US4019968428_UHD.jpg)  
 20241103 | [American bison in Yellowstone National Park, Wyoming (© Ian Shive/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.BisonYellowstone_EN-US4259322652_UHD.jpg)  
 20241102 | [Pueblo ruins, Hovenweep National Monument, Utah (© Alan Majchrowicz/Getty Images)](https://cn.bing.com/th?id=OHR.HovenweepRuins_EN-US3883549583_UHD.jpg)  
