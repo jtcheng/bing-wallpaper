@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20241119 | [Porthcawl Lighthouse, Wales (© Leighton Collins/Alamy)](https://cn.bing.com/th?id=OHR.PorthcawlLighthouse_EN-US4147042402_UHD.jpg)  
 20241118 | [Red deer stag in the Caledonian Forest, Glen Affric, Scottish Highlands (© Terry Whittaker/Alamy)](https://cn.bing.com/th?id=OHR.RedStag_EN-US3910525623_UHD.jpg)  
 20241117 | [Wadden Sea coast, near Moddergat, Friesland, Netherlands (© Ron ter Burg/Minden Pictures)](https://cn.bing.com/th?id=OHR.FrieslandNetherlands_EN-US3770890281_UHD.jpg)  
 20241116 | [Yi Peng lantern festival, Chiang Mai, Thailand (© tampatra/Getty Images)](https://cn.bing.com/th?id=OHR.YiPengLanterns_EN-US2889801198_UHD.jpg)  
