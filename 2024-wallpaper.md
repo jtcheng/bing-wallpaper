@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20241124 | [Spiral aloe, Kangaroo Island, Australia (© Michael Melford/Alamy)](https://cn.bing.com/th?id=OHR.FibonacciAloe_EN-US5137471725_UHD.jpg)  
 20241123 | [Castle of Zafra, Guadalajara province, Spain (© Eduard Gene/Getty Images)](https://cn.bing.com/th?id=OHR.ZafraCastle_EN-US5032917939_UHD.jpg)  
 20241122 | [Lion cubs at sunrise, South Africa (© Ruan Springorum/Getty Images)](https://cn.bing.com/th?id=OHR.LionCubs_EN-US4742616367_UHD.jpg)  
 20241121 | [Giant land art painting 'Beyond Crisis' by Saype, Leysin, Switzerland (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)](https://cn.bing.com/th?id=OHR.BeyondSaype_EN-US4398054405_UHD.jpg)  
