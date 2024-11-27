@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20241127 | [Olive grove, Valle d'Itria, Puglia, Italy (© Massimo Santi/Shutterstock)](https://cn.bing.com/th?id=OHR.TrulliGrove_EN-US5919292259_UHD.jpg)  
 20241126 | [Masai giraffes, Amboseli National Park, Kenya (© Art Wolfe/DanitaDelimont.com)](https://cn.bing.com/th?id=OHR.AmboseliGiraffes_EN-US9072366924_UHD.jpg)  
 20241125 | [Sonoma Coast State Park, California (© Rachid Dahnoun/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.SonomaCoast_EN-US5218026576_UHD.jpg)  
 20241124 | [Spiral aloe, Kangaroo Island, Australia (© Michael Melford/Alamy)](https://cn.bing.com/th?id=OHR.FibonacciAloe_EN-US5137471725_UHD.jpg)  
