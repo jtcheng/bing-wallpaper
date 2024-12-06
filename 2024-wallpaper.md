@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20241206 | [Tufa formations in Mono Lake, California (© Susanna Patras/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.MonoTufa_EN-US7607210506_UHD.jpg)  
 20241205 | [Male white rhinoceroses, Lake Nakuru, Kenya (© Ingo Arndt/Minden Pictures)](https://cn.bing.com/th?id=OHR.RhinosKenya_EN-US7514650014_UHD.jpg)  
 20241204 | [Sattais Katcheri (Court of 27 Pillars), Amber Fort, Rajasthan, India (© Yury Taranik/Shutterstock)](https://cn.bing.com/th?id=OHR.JaipurFort_EN-US7275752190_UHD.jpg)  
 20241203 | [Female moose, Denali National Park, Alaska (© Cavan Images/Alamy)](https://cn.bing.com/th?id=OHR.SnowMoose_EN-US6949674639_UHD.jpg)  
