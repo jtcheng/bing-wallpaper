@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20241209 | [Notre-Dame Cathedral, Paris, France (© Julien Fromentin/Getty Images)](https://cn.bing.com/th?id=OHR.ReopeningNotreDame_EN-US8084146311_UHD.jpg)  
 20241208 | [Pearl Harbor Memorial Bridge, New Haven, Connecticut (© Enzo Figueres/Getty Images)](https://cn.bing.com/th?id=OHR.NewHavenBridge_EN-US7922266620_UHD.jpg)  
 20241207 | [Old Town in Helsinki, Finland (© Oleksiy Mark/Shutterstock)](https://cn.bing.com/th?id=OHR.HelsinkiDusk_EN-US7738977648_UHD.jpg)  
 20241206 | [Tufa formations in Mono Lake, California (© Susanna Patras/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.MonoTufa_EN-US7607210506_UHD.jpg)  
