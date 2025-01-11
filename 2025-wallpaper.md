@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20250111 | [Abraham Lake, Alberta, Canada (© Basic Elements Photography/Getty Images)](https://cn.bing.com/th?id=OHR.BubbleLake_EN-US6558545411_UHD.jpg)  
 20250110 | [The US Capitol dome with flags flying at half-staff in honor of former President Jimmy Carter, Washington, DC (© J. David Ake/Getty Images)](https://cn.bing.com/th?id=OHR.CarterMemorial_EN-US9400973867_UHD.jpg)  
 20250109 | [Snow on the Great Wall of China (© View Stock/Alamy)](https://cn.bing.com/th?id=OHR.GreatWallStairs_EN-US0360405933_UHD.jpg)  
 20250108 | [Moeraki Boulders at sunset, South Island, New Zealand (© Douglas Pearson/eStock Photo)](https://cn.bing.com/th?id=OHR.BouldersNZ_EN-US0112829210_UHD.jpg)  
