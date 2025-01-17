@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20250117 | [High Peaks Trail in Pinnacles National Park, San Benito County, California (© yhelfman/Getty Images)](https://cn.bing.com/th?id=OHR.PinnaclesPeaks_EN-US6350520288_UHD.jpg)  
 20250116 | [The Great Court of the British Museum, London, England (© Cavan Images/Offset/Shutterstock)](https://cn.bing.com/th?id=OHR.MuseumCourt_EN-US0003531841_UHD.jpg)  
 20250115 | [Village of Zahara de la Sierra overlooking Zahara-El Gastor Reservoir, Cádiz province, Spain (© SEN LI/Getty Images)](https://cn.bing.com/th?id=OHR.CadizSpain_EN-US9699586606_UHD.jpg)  
 20250114 | [Cottage with Tŵr Mawr Lighthouse in the background, Ynys Llanddwyn, Wales (© Westend61 on Offset/Shutterstock)](https://cn.bing.com/th?id=OHR.CoastalWales_EN-US9397534673_UHD.jpg)  
