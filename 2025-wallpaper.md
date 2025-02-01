@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20250201 | [Plains zebras at sunrise, Mokala National Park, South Africa (© EcoPrint/Shutterstock)](https://cn.bing.com/th?id=OHR.PlainsZebra_EN-US9488790690_UHD.jpg)  
 20250131 | [La Brecha de Rolando, Ordesa y Monte Perdido National Park, Spain (© Inaki Relanzon/Nature Picture Library/Alamy)](https://cn.bing.com/th?id=OHR.OrdesaSpain_EN-US9252424531_UHD.jpg)  
 20250130 | [Dragon dance, Wuhan, China (© Miao Jian/Wuhan Morning Post/Visual China Group via Getty Images)](https://cn.bing.com/th?id=OHR.LunarDragon_EN-US9011723385_UHD.jpg)  
 20250129 | [Short-eared owl hunting in heavy snow (© Dilshan Muthalib/Getty Images)](https://cn.bing.com/th?id=OHR.FlyingOwl_EN-US8779625388_UHD.jpg)  
