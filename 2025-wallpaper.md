@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20250221 | [Alpenglow on Half Dome, Yosemite National Park, California (© Matthew Kuhns/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.AdamsYosemite_EN-US7924059397_UHD.jpg)  
 20250220 | [European river otter, Lelystad, Netherlands (© Ernst Dirksen/Minden Pictures)](https://cn.bing.com/th?id=OHR.IceHoleOtter_EN-US7859051687_UHD.jpg)  
 20250219 | [Great Blue Hole, Belize (© JamiesOnAMission/Shutterstock)](https://cn.bing.com/th?id=OHR.BlueBelize_EN-US7787222240_UHD.jpg)  
 20250218 | [The Washington Monument seen from the Lincoln Memorial, Washington, DC (© lucky-photographer/Alamy)](https://cn.bing.com/th?id=OHR.LincolnSunrise_EN-US7725604655_UHD.jpg)  
