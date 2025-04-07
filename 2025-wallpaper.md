@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20250407 | [George Peabody Library, Baltimore, Maryland (© Wim Wiskerke/Alamy)](https://cn.bing.com/th?id=OHR.PeabodyBaltimore_EN-US0036943577_UHD.jpg)  
 20250406 | [Gaztelugatxe at sunset, Basque Country, Spain (© Eloi_Omella/Getty Images)](https://cn.bing.com/th?id=OHR.GaztelugatxeSunset_EN-US9970203395_UHD.jpg)  
 20250405 | [The National Cherry Blossom Festival in Washington, DC (© f11photo/Getty Images)](https://cn.bing.com/th?id=OHR.CherryBlossomDC_EN-US9897772834_UHD.jpg)  
 20250404 | [Rainbow over Wasson Peak, Saguaro National Park, Arizona (© Frank Staub/Getty Images)](https://cn.bing.com/th?id=OHR.SaguaroRainbow_EN-US3149462337_UHD.jpg)  
