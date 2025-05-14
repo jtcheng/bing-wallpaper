@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20250514 | [Torres del Paine National Park, Patagonia, Chile (© Marco Bottigelli/Getty Images)](https://cn.bing.com/th?id=OHR.TorresChile_EN-US6814348961_UHD.jpg)  
 20250513 | [An iris garden in Tokyo, Japan (© M.Arai/Getty Images)](https://cn.bing.com/th?id=OHR.IrisGarden_EN-US6778843108_UHD.jpg)  
 20250512 | [Leopard mother grooming her cub, Jao Reserve, Botswana (© Suzi Eszterhas/Minden Pictures)](https://cn.bing.com/th?id=OHR.LeopardMother_EN-US6709981831_UHD.jpg)  
 20250511 | [Minnesota State Capitol, St. Paul, Minnesota (© lavin photography/Getty Images)](https://cn.bing.com/th?id=OHR.MinnesotaRotunda_EN-US6605011856_UHD.jpg)  
