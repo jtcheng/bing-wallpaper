@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20250530 | [Miravet on the Ebro River, Tarragona, Catalonia, Spain (© Eloi_Omella/Getty Images)](https://cn.bing.com/th?id=OHR.MiravetSpain_EN-US4967052818_UHD.jpg)  
 20250529 | [Sea otter floating in a kelp bed in Alaska Maritime National Wildlife Refuge (© Gerry Ellis/Minden Pictures)](https://cn.bing.com/th?id=OHR.KelpOtter_EN-US4867923884_UHD.jpg)  
 20250528 | [Mona Vale Rockpool, Sydney, Australia (© jamenpercy/Getty Images)](https://cn.bing.com/th?id=OHR.MonaValePool_EN-US4805820773_UHD.jpg)  
 20250527 | [Arlington National Cemetery in Virginia (© Dennis Govoni/Getty Images)](https://cn.bing.com/th?id=OHR.ArlingtonSunrise_EN-US4503302075_UHD.jpg)  
