@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20250616 | [Lesser rhea adult male with chicks, Torres del Paine National Park, Patagonia, Chile (© Ignacio Yufera/Minden Pictures)](https://cn.bing.com/th?id=OHR.RheaDad_EN-US1643943847_UHD.jpg)  
 20250615 | [Flag display at the US Capitol, Washington, DC (© kmiragaya/Adobe Stock)](https://cn.bing.com/th?id=OHR.FlagCapitolDC_EN-US1553861171_UHD.jpg)  
 20250614 | [Vila Franca Islet, São Miguel Island, Azores, Portugal (© ARoxo/Getty Images)](https://cn.bing.com/th?id=OHR.SanMiguelAzores_EN-US2785372768_UHD.jpg)  
 20250613 | [Chisos Mountains, Big Bend National Park, Texas (© Dean Fikar/Getty Images)](https://cn.bing.com/th?id=OHR.BigBendChisos_EN-US9433220487_UHD.jpg)  
