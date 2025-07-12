@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20250712 | [Tokyo at sunrise (© pongnathee kluaythong/Getty Images)](https://cn.bing.com/th?id=OHR.TokyoSunrise_EN-US4269783992_UHD.jpg)  
 20250711 | [Turquoise waters of the Bahamas (© BlueOrange Studio/Adobe Stock)](https://cn.bing.com/th?id=OHR.BahamaBlues_EN-US1367794856_UHD.jpg)  
 20250710 | [Constitución railway station, Buenos Aires, Argentina (© Grafissimo/Getty Images)](https://cn.bing.com/th?id=OHR.ConstitucionStation_EN-US1235857389_UHD.jpg)  
 20250709 | [Seceda, a peak in the Dolomites, South Tyrol, Italy (© Kalyakan/Adobe Stock)](https://cn.bing.com/th?id=OHR.SecedaPeak_EN-US0983713623_UHD.jpg)  
