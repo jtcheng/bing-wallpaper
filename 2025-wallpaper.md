@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20250802 | [Royal Mile, Edinburgh, Scotland (© MEDITERRANEAN/Getty Images)](https://cn.bing.com/th?id=OHR.EdinburghFringe_EN-US5923216873_UHD.jpg)  
 20250801 | [Ring-tailed lemur infant playing with its own tail, Madagascar (© Andy Rouse/Nature Picture Library)](https://cn.bing.com/th?id=OHR.BabyLemur_EN-US9264861498_UHD.jpg)  
 20250731 | ['Beyond Walls' land-art installation by Saype at Expo 2020 Dubai, United Arab Emirates (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)](https://cn.bing.com/th?id=OHR.SaypeDubai_EN-US5078679271_UHD.jpg)  
 20250730 | [Female Bengal tiger, Kanha National Park, India (© Axel Gomille/Nature Picture Library)](https://cn.bing.com/th?id=OHR.TigerDay_EN-US5038876410_UHD.jpg)  
