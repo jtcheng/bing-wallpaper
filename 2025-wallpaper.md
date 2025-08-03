@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20250803 | [Petroglyphs near Fruita in Capitol Reef National Park, Utah (© Nicolas VINCENT/Adobe Stock)](https://cn.bing.com/th?id=OHR.FruitaPetroglyphs_EN-US8712481828_UHD.jpg)  
 20250802 | [Royal Mile, Edinburgh, Scotland (© MEDITERRANEAN/Getty Images)](https://cn.bing.com/th?id=OHR.EdinburghFringe_EN-US5923216873_UHD.jpg)  
 20250801 | [Ring-tailed lemur infant playing with its own tail, Madagascar (© Andy Rouse/Nature Picture Library)](https://cn.bing.com/th?id=OHR.BabyLemur_EN-US9264861498_UHD.jpg)  
 20250731 | ['Beyond Walls' land-art installation by Saype at Expo 2020 Dubai, United Arab Emirates (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)](https://cn.bing.com/th?id=OHR.SaypeDubai_EN-US5078679271_UHD.jpg)  
