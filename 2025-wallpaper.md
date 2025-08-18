@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20250818 | [Lyngvig Lighthouse, Hvide Sande, Denmark (© Caroline Brundle Bugge/Getty Images)](https://cn.bing.com/th?id=OHR.LyngvigLighthouse_EN-US1600601632_UHD.jpg)  
 20250817 | [Colorful beehives in Italy (© Roberto Caucino/Shutterstock)](https://cn.bing.com/th?id=OHR.ColorfulBeehives_EN-US1476944743_UHD.jpg)  
 20250816 | [Spotted eagle rays, San Cristóbal Island, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)](https://cn.bing.com/th?id=OHR.SpottedEagleRay_EN-US9227600044_UHD.jpg)  
 20250815 | [Cable car station on Piz Nair mountain, Graubünden, Switzerland (© Roberto Moiola/Alamy)](https://cn.bing.com/th?id=OHR.PizNairPeak_EN-US9097547756_UHD.jpg)  
