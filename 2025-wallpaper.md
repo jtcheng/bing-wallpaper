@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20250824 | [St. Barbara's Cathedral, Kutná Hora, Czechia (© Castka/Getty Images)](https://cn.bing.com/th?id=OHR.SaintBarbaras_EN-US3076115197_UHD.jpg)  
 20250823 | [Rolling hills of the Palouse, Washington (© svetlana57/Getty Images)](https://cn.bing.com/th?id=OHR.PalouseWA_EN-US2419102005_UHD.jpg)  
 20250822 | [Wheatear and flowering heather, Peak District National Park, England (© Ben Hall/Nature Picture Library)](https://cn.bing.com/th?id=OHR.WheatearBird_EN-US2132045619_UHD.jpg)  
 20250821 | [The citadel in Bonifacio, Southern Corsica, France (© Marc Dozier/Getty Images)](https://cn.bing.com/th?id=OHR.CitadelBonifacio_EN-US2046177235_UHD.jpg)  
