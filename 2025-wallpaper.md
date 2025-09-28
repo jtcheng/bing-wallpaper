@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20250928 | [Tank Lakes, Alpine Lakes Wilderness, Washington (© Austin Trigg/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.TankLakes_EN-US9278332978_UHD.jpg)  
 20250927 | [Least chipmunk, Kootenai National Forest, Montana (© Donald M. Jones/Minden Pictures)](https://cn.bing.com/th?id=OHR.AutumnChipmunk_EN-US9248365602_UHD.jpg)  
 20250926 | [Chittorgarh Fort, Rajasthan, India (© chetansoni/Shutterstock)](https://cn.bing.com/th?id=OHR.FortChittorgarh_EN-US9184486139_UHD.jpg)  
 20250925 | [Devils Tower National Monument, Wyoming (© Laura Hedien/Getty Images)](https://cn.bing.com/th?id=OHR.BearLodge_EN-US9061134971_UHD.jpg)  
