@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20251019 | [Neolithic site of Silbury Hill, Tilshead, Wiltshire, England (© dbstockphoto/Getty Images)](https://cn.bing.com/th?id=OHR.SilburyHill_EN-US2485144120_UHD.jpg)  
 20251018 | [Rock River Falls, Upper Peninsula, Michigan (© Matt Anderson Photography/Getty Images)](https://cn.bing.com/th?id=OHR.RockRiverFalls_EN-US2428797661_UHD.jpg)  
 20251017 | [Eurasian lynx in Siberia (© Mario Plechaty Photograph/Shutterstock)](https://cn.bing.com/th?id=OHR.SiberianLynx_EN-US0696336220_UHD.jpg)  
 20251016 | [Amethyst laccaria mushrooms, Seabeck, Washington (© Danita Delimont/Shutterstock)](https://cn.bing.com/th?id=OHR.AmethystLaccaria_EN-US0640413961_UHD.jpg)  
