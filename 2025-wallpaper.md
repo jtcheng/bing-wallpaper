@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20251030 | [Ancient til trees in Fanal Forest, island of Madeira, Portugal (© Lukas Jonaitis/Shutterstock)](https://cn.bing.com/th?id=OHR.FanalForest_EN-US4405104404_UHD.jpg)  
 20251029 | [The Gothic Gate in the Adršpach-Teplice Rocks, Czechia (© Kseniya_Milner/Getty Images)](https://cn.bing.com/th?id=OHR.TepliceRocks_EN-US4098225022_UHD.jpg)  
 20251028 | [Thick-billed raven, Simien Mountains, Ethiopia (© Ignacio Yufera/FLPA/Minden Pictures)](https://cn.bing.com/th?id=OHR.AfricanRaven_EN-US4057369898_UHD.jpg)  
 20251027 | [Pumpkin farm in North Carolina (© Matthew H Irvin/Getty Images)](https://cn.bing.com/th?id=OHR.PumpkinFarm_EN-US3773448576_UHD.jpg)  
