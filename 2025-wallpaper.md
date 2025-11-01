@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20251101 | [Entrance of Bran Castle in Bran, Brașov, Romania (© blue sky in my pocket/Getty Images)](https://cn.bing.com/th?id=OHR.BranCastle_EN-US5914201029_UHD.jpg)  
 20251031 | [Camels at Jaisalmer, Rajasthan, India (© f9photos/Getty Images)](https://cn.bing.com/th?id=OHR.PushkarFair_EN-US4430814252_UHD.jpg)  
 20251030 | [Ancient til trees in Fanal Forest, island of Madeira, Portugal (© Lukas Jonaitis/Shutterstock)](https://cn.bing.com/th?id=OHR.FanalForest_EN-US4405104404_UHD.jpg)  
 20251029 | [The Gothic Gate in the Adršpach-Teplice Rocks, Czechia (© Kseniya_Milner/Getty Images)](https://cn.bing.com/th?id=OHR.TepliceRocks_EN-US4098225022_UHD.jpg)  
