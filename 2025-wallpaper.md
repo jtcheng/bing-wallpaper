@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20251104 | [Jellyfish swimming in the Pacific, Guerrero, Mexico (© Christian Vizl/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.MexicoJelly_EN-US6803524310_UHD.jpg)  
 20251103 | [Colorful maple leaves and bamboo forest in Arashiyama, Kyoto, Japan (© DoctorEgg/Getty Images)](https://cn.bing.com/th?id=OHR.KyotoMaple_EN-US6732403492_UHD.jpg)  
 20251102 | [Bison grazing at thermal hot springs, Yellowstone National Park, Wyoming (© Cheryl Ramalho/Getty Images)](https://cn.bing.com/th?id=OHR.BisonSprings_EN-US6080228013_UHD.jpg)  
 20251101 | [Entrance of Bran Castle in Bran, Brașov, Romania (© blue sky in my pocket/Getty Images)](https://cn.bing.com/th?id=OHR.BranCastle_EN-US5914201029_UHD.jpg)  
