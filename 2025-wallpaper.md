@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20251109 | [Sea stacks of Bandon Beach in Bandon, Oregon (© Grant Ordelheide/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.BandonBeach_EN-US7099626478_UHD.jpg)  
 20251108 | [Polar bear in Churchill, Manitoba, Canada (© karen crewe/Getty Images)](https://cn.bing.com/th?id=OHR.WillowBear_EN-US6995170630_UHD.jpg)  
 20251107 | [Colorful lanterns at the temple of Wat Phra That Hariphunchai, Lamphun, Thailand (© MR. ANUJAK JAIMOOK/Getty Images)](https://cn.bing.com/th?id=OHR.LanternsThailand_EN-US6955074347_UHD.jpg)  
 20251106 | [Peña Roya beech forest, Moncayo Natural Park, Zaragoza, Aragon, Spain (© David Santiago Garcia/DEEPOL by plainpicture)](https://cn.bing.com/th?id=OHR.MoncayoAutumn_EN-US1753631441_UHD.jpg)  
