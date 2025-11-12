@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20251112 | [Marine Corps War Memorial, Arlington, Virginia (© f11photo/Shutterstock)](https://cn.bing.com/th?id=OHR.MarineMemorial_EN-US6899836690_UHD.jpg)  
 20251111 | [Black-tailed prairie dogs at Roberts Prairie Dog Town, Badlands National Park, South Dakota (© Greg Vaughn/Getty Images)](https://cn.bing.com/th?id=OHR.PrairieDogTown_EN-US6854295076_UHD.jpg)  
 20251110 | [Interstellar clouds in the Lagoon Nebula, captured by the Hubble Space Telescope (© ESA/NASA)](https://cn.bing.com/th?id=OHR.LagoonNebula_EN-US7186308623_UHD.jpg)  
 20251109 | [Sea stacks of Bandon Beach in Bandon, Oregon (© Grant Ordelheide/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.BandonBeach_EN-US7099626478_UHD.jpg)  
