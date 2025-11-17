@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20251117 | [A traboule in Lyon, France (© TPopova/Getty Images)](https://cn.bing.com/th?id=OHR.LyonTraboules_EN-US9432784340_UHD.jpg)  
 20251116 | [Irohazaka Road in fall, Nikko, Tochigi, Japan (© oneinchpunch/Shutterstock)](https://cn.bing.com/th?id=OHR.IrohazakaAutumn_EN-US9137140715_UHD.jpg)  
 20251115 | [Mother manatee and calf, Crystal River, Florida (© Gregory Sweeney/Getty Images)](https://cn.bing.com/th?id=OHR.ManateeBaby_EN-US5594953777_UHD.jpg)  
 20251114 | [Quiver trees under the Milky Way, Keetmanshoop, Namibia (© Wim van den Heever/naturepl.com)](https://cn.bing.com/th?id=OHR.AloeDichotoma_EN-US6966316373_UHD.jpg)  
