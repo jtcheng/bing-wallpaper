@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20251119 | [Male hooded merganser, Oregon (© Eric Vogt/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.AutumnMerganser_EN-US5860535351_UHD.jpg)  
 20251118 | [Fall colors in Shenandoah National Park, Virginia (© Michael Ver Sprill/Getty Images)](https://cn.bing.com/th?id=OHR.ShenandoahTrail_EN-US8964689271_UHD.jpg)  
 20251117 | [A traboule in Lyon, France (© TPopova/Getty Images)](https://cn.bing.com/th?id=OHR.LyonTraboules_EN-US9432784340_UHD.jpg)  
 20251116 | [Irohazaka Road in fall, Nikko, Tochigi, Japan (© oneinchpunch/Shutterstock)](https://cn.bing.com/th?id=OHR.IrohazakaAutumn_EN-US9137140715_UHD.jpg)  
