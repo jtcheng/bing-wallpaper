@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20251125 | [Gwalior Fort, Madhya Pradesh, India (© ImagesofIndia/Shutterstock)](https://cn.bing.com/th?id=OHR.GwailorFort_EN-US6671653416_UHD.jpg)  
 20251124 | [Ammonite fossil from Madagascar (© ThomasLENNE/Shutterstock)](https://cn.bing.com/th?id=OHR.MadgascarAmmonite_EN-US6525238032_UHD.jpg)  
 20251123 | [Leshan Giant Buddha, Sichuan, China (© www.anotherdayattheoffice.org/Getty Images)](https://cn.bing.com/th?id=OHR.LeshanBuddha_EN-US6412307232_UHD.jpg)  
 20251122 | [Harbor seals at Robert Moses State Park, Long Island, New York (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](https://cn.bing.com/th?id=OHR.SealWaving_EN-US6277930581_UHD.jpg)  
