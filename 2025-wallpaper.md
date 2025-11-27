@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20251127 | [Olive orchard in the Serra de Tramuntana, Mallorca, Balearic Islands, Spain (© cinoby/Getty Images)](https://cn.bing.com/th?id=OHR.OliveGrove_EN-US7076835672_UHD.jpg)  
 20251126 | [The Trevi Fountain in Rome, Italy (© Nico De Pasquale Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TreviFountain_EN-US6800145474_UHD.jpg)  
 20251125 | [Gwalior Fort, Madhya Pradesh, India (© ImagesofIndia/Shutterstock)](https://cn.bing.com/th?id=OHR.GwailorFort_EN-US6671653416_UHD.jpg)  
 20251124 | [Ammonite fossil from Madagascar (© ThomasLENNE/Shutterstock)](https://cn.bing.com/th?id=OHR.MadgascarAmmonite_EN-US6525238032_UHD.jpg)  
