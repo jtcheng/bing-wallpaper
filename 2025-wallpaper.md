@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20251201 | [Christmas market in Leipzig, Germany (© Krzysztof Baranowski/Getty Images)](https://cn.bing.com/th?id=OHR.LeipzigMarket_EN-US6493622236_UHD.jpg)  
 20251130 | [Red deer stag in De Hoge Veluwe National Park, Netherlands (© CreativeNature_nl/Getty Images)](https://cn.bing.com/th?id=OHR.DeerVeluwe_EN-US6795108723_UHD.jpg)  
 20251129 | [Collection of silver Native American concho belts, Santa Fe, New Mexico (© julien mcroberts/Shutterstock)](https://cn.bing.com/th?id=OHR.ConchaBelt_EN-US6625864424_UHD.jpg)  
 20251128 | [Male wild turkey plumage, Aransas Natural Wildlife Refuge, Texas (© George McCarthy/Minden Pictures)](https://cn.bing.com/th?id=OHR.TurkeyDetail_EN-US7401521602_UHD.jpg)  
