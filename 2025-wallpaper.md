@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20251206 | [Maya site of Copán, Honduras (© diegograndi/Getty Images)](https://cn.bing.com/th?id=OHR.CopanRuins_EN-US5517813382_UHD.jpg)  
 20251205 | [Cheetah in Maasai Mara National Reserve, Narok, Kenya (© Andy Rouse/naturepl.com)](https://cn.bing.com/th?id=OHR.CheetahMound_EN-US5447540393_UHD.jpg)  
 20251204 | [Sandhill cranes at sunrise, Bosque del Apache National Wildlife Refuge, New Mexico (© Jack Dykinga/Minden Pictures)](https://cn.bing.com/th?id=OHR.BosqueCranes_EN-US6752028797_UHD.jpg)  
 20251203 | [Willow Lake and Mount Blackburn, Wrangell-St. Elias National Park and Preserve, Alaska (© Patrick J. Endres/Getty Images)](https://cn.bing.com/th?id=OHR.WillowLake_EN-US6664756735_UHD.jpg)  
