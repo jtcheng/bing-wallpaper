@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20251225 | [Snowy chapel with Christmas tree in the Bavarian Alps, Germany (© mauritius images GmbH/Alamy)](https://cn.bing.com/th?id=OHR.ElmauChapel_EN-US5704228113_UHD.jpg)  
 20251224 | [Reindeer during winter snowfall, Lapland, Finland (© Roberto Moiola/Getty Images)](https://cn.bing.com/th?id=OHR.ReindeerFinland_EN-US5636971050_UHD.jpg)  
 20251223 | ['The Nutcracker' performed by the Turkish State Opera and Ballet in Ankara, Türkiye (© Anadolu/Getty Images)](https://cn.bing.com/th?id=OHR.NutcrackerAnkara_EN-US5537620581_UHD.jpg)  
 20251222 | [Dawn light through frosty trees, Sweden (© Schon/Getty Images)](https://cn.bing.com/th?id=OHR.SwedenSolstice_EN-US5470044971_UHD.jpg)  
