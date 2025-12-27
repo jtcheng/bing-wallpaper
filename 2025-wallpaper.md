@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20251227 | [Salisbury Cathedral, Wiltshire, England (© Julian Elliott Photography/Getty Images)](https://cn.bing.com/th?id=OHR.WiltshireDawn_EN-US5663179833_UHD.jpg)  
 20251226 | [Snow globes at a Christmas market in Heidelberg, Germany (© George Pachantouris/Getty Images)](https://cn.bing.com/th?id=OHR.SantaGlobe_EN-US5819361091_UHD.jpg)  
 20251225 | [Snowy chapel with Christmas tree in the Bavarian Alps, Germany (© mauritius images GmbH/Alamy)](https://cn.bing.com/th?id=OHR.ElmauChapel_EN-US5704228113_UHD.jpg)  
 20251224 | [Reindeer during winter snowfall, Lapland, Finland (© Roberto Moiola/Getty Images)](https://cn.bing.com/th?id=OHR.ReindeerFinland_EN-US5636971050_UHD.jpg)  
