@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20251231 | [Whooper swans, Kotoku Pond, Japan (© Martin Bailey/Shutterstock)](https://cn.bing.com/th?id=OHR.JapanSwans_EN-US6228421340_UHD.jpg)  
 20251230 | [St. Gregory Church in Ani Ruins, Kars, Türkiye (© Kenan Talas/Getty Images)](https://cn.bing.com/th?id=OHR.AniTurkey_EN-US6168768263_UHD.jpg)  
 20251229 | [Black-and-white ruffed lemur in Madagascar (© Cyrielle Beaubois/Getty Images)](https://cn.bing.com/th?id=OHR.RuffedLemur_EN-US6014028083_UHD.jpg)  
 20251228 | [Plate ice along Lake Superior, Grand Marais, Minnesota (© wanderluster/Getty Images)](https://cn.bing.com/th?id=OHR.SuperiorIceMN_EN-US5952266924_UHD.jpg)  
