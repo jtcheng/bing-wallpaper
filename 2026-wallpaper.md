@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20260204 | [Emerald Bay and Fannette Island, Lake Tahoe, California (© Bill Stevenson/Cavan Images)](https://cn.bing.com/th?id=OHR.FanetteIsland_EN-US0236094374_UHD.jpg)  
 20260203 | [Alpine marmots, Hohe Tauern National Park, Austria (© Raimund Linke/Getty Images)](https://cn.bing.com/th?id=OHR.AlpineMarmots_EN-US0200342638_UHD.jpg)  
 20260202 | [US Army nurses arrive in Greenock, Scotland, 1944 (© Stocktrek Images, Inc/Alamy)](https://cn.bing.com/th?id=OHR.ArmyNurses_EN-US0165759491_UHD.jpg)  
 20260201 | [Plains zebras, Etosha National Park, Namibia (© Mogens Trolle/Shutterstock)](https://cn.bing.com/th?id=OHR.EtoshaZebra_EN-US0091145236_UHD.jpg)  
