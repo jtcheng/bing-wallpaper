@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20260213 | [Blue-footed booby, Galápagos Islands, Ecuador (© Karine Aigner/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.DarwinBooby_EN-US4839738451_UHD.jpg)  
 20260212 | [Salt flats in Badwater Basin, Death Valley National Park, California (© Jim Patterson/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.BadwaterFlats_EN-US4770719796_UHD.jpg)  
 20260211 | [Islets of Es Vedrà and Es Vedranell, Ibiza, Spain (© L. Apolli/Getty Images)](https://cn.bing.com/th?id=OHR.IbizaIslets_EN-US4713963434_UHD.jpg)  
 20260210 | [Amur leopard cat, Russia (© Valeriy Maleev/naturepl.com)](https://cn.bing.com/th?id=OHR.LeopardCat_EN-US4669057608_UHD.jpg)  
