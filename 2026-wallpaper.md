@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20260220 | [The Dragon's Eye rock formation at Uttakleiv Beach, Norway (© reisegraf/Getty Images)](https://cn.bing.com/th?id=OHR.DragonsEyeRock_EN-US6826796617_UHD.jpg)  
 20260219 | [Przewalski's horses (© Nemyrivskyi Viacheslav/Getty Images)](https://cn.bing.com/th?id=OHR.PrzewalskisHorse_EN-US6767229079_UHD.jpg)  
 20260218 | [Red lanterns celebrating Chinese New Year (© Gins Wang/Getty Images)](https://cn.bing.com/th?id=OHR.NewYearLantern_EN-US6665128229_UHD.jpg)  
 20260217 | [Lincoln Memorial, Washington, DC (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.PresidentsDay_EN-US6598155144_UHD.jpg)  
