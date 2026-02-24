@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20260224 | [Great white egret, Upper Bavaria, Germany (© Konrad Wothe/naturepl.com)](https://cn.bing.com/th?id=OHR.BavariaEgret_EN-US2697995103_UHD.jpg)  
 20260223 | [The hill of Mam Tor, Derbyshire, England (© john finney photography/Getty Images)](https://cn.bing.com/th?id=OHR.MamTorSunrise_EN-US2655534073_UHD.jpg)  
 20260222 | [Red fox standing in snowfall, Grand Teton National Park, Wyoming (© Radomir Jakubowski/naturepl.com)](https://cn.bing.com/th?id=OHR.TetonFox_EN-US2616700325_UHD.jpg)  
 20260221 | [Horsetail Fall in Yosemite National Park, California (© Jorge Villalba/Getty Images)](https://cn.bing.com/th?id=OHR.AdamsFirefall_EN-US2580399078_UHD.jpg)  
