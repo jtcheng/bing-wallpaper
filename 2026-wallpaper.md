@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20260323 | [Lake Tanganyika, Africa (© BEST-BACKGROUNDS/NASA/Shutterstock)](https://cn.bing.com/th?id=OHR.TanganyikaWater_EN-US5685685365_UHD.jpg)  
 20260322 | [Letea Forest, Danube Delta, Romania (© Wild Wonders of Europe/Widstrand/Nature Picture Library)](https://cn.bing.com/th?id=OHR.LeteaForest_EN-US5404369914_UHD.jpg)  
 20260321 | [Snowdrops in spring (© klagyivik/Getty Images)](https://cn.bing.com/th?id=OHR.SpringSnowdrops_EN-US5032204696_UHD.jpg)  
 20260320 | [Short-beaked echidna, Adelaide Hills, Australia (© Etienne Littlefair/naturepl.com)](https://cn.bing.com/th?id=OHR.EchidnaAustralia_EN-US7660451296_UHD.jpg)  
