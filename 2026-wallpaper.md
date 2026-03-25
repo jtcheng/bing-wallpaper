@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20260325 | [Cherry blossoms at East Lake Cherry Blossom Park, Wuhan, China (© Zhang Qiao/VCG/Getty Images)](https://cn.bing.com/th?id=OHR.WuhanCherryBlossom_EN-US5963967452_UHD.jpg)  
 20260324 | [Lightning storm over saguaro cacti, Sonoran Desert, Arizona (© Jack Dykinga/Nature Picture Library)](https://cn.bing.com/th?id=OHR.SonoranStorm_EN-US5792303901_UHD.jpg)  
 20260323 | [Lake Tanganyika, Africa (© BEST-BACKGROUNDS/NASA/Shutterstock)](https://cn.bing.com/th?id=OHR.TanganyikaWater_EN-US5685685365_UHD.jpg)  
 20260322 | [Letea Forest, Danube Delta, Romania (© Wild Wonders of Europe/Widstrand/Nature Picture Library)](https://cn.bing.com/th?id=OHR.LeteaForest_EN-US5404369914_UHD.jpg)  
