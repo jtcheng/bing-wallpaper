@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20260404 | [Armbrug bridge, Amsterdam, Netherlands (© Alexander Spatari/Getty Images)](https://cn.bing.com/th?id=OHR.ArmbrugBridge_EN-US3302230248_UHD.jpg)  
 20260403 | [Wildflower bloom, Central Valley, California (© Jeff Lewis/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.WildflowerValley_EN-US6579657743_UHD.jpg)  
 20260402 | [Japanese tree frog in a pink morning glory (© Tetsuya Tanooka/Getty Images)](https://cn.bing.com/th?id=OHR.JapaneseTreeFrog_EN-US6527297660_UHD.jpg)  
 20260401 | [Paradise Cave, Phong Nha-Ke Bang National Park, Vietnam (© Pakawat Thongcharoen/Getty Images)](https://cn.bing.com/th?id=OHR.ParadiseCave_EN-US6470755729_UHD.jpg)  
