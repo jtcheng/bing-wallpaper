@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20260407 | [Hirosaki Castle with cherry blossoms, Hirosaki, Japan (© Glenn Waters/Getty Images)](https://cn.bing.com/th?id=OHR.CastleBlossoms_EN-US6202844131_UHD.jpg)  
 20260406 | [Colorful handmade wooden Easter eggs, Vilnius, Lithuania (© maximkabb/Getty Images)](https://cn.bing.com/th?id=OHR.LithuaniaEggs_EN-US5074250791_UHD.jpg)  
 20260405 | [Black grouse males facing off on a lekking site, Estonia (© Sven Zacek/Nature Picture Library)](https://cn.bing.com/th?id=OHR.GrouseGuff_EN-US4212457538_UHD.jpg)  
 20260404 | [Armbrug bridge, Amsterdam, Netherlands (© Alexander Spatari/Getty Images)](https://cn.bing.com/th?id=OHR.ArmbrugBridge_EN-US3302230248_UHD.jpg)  
