@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20260410 | [Sgwd yr Eira waterfall, Bannau Brycheiniog National Park, Wales (© Guy Edwardes/Nature Picture Library)](https://cn.bing.com/th?id=OHR.WalesWaterfall_EN-US7187055503_UHD.jpg)  
 20260409 | [Seattle, Washington (© Jim Patterson/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.SeattleSunrise_EN-US6729754002_UHD.jpg)  
 20260408 | [Beaver, Germany (© Andyworks/Getty Images)](https://cn.bing.com/th?id=OHR.BeaverPortrait_EN-US6459336252_UHD.jpg)  
 20260407 | [Hirosaki Castle with cherry blossoms, Hirosaki, Japan (© Glenn Waters/Getty Images)](https://cn.bing.com/th?id=OHR.CastleBlossoms_EN-US6202844131_UHD.jpg)  
