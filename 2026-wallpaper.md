@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20260427 | [Pink apple blossoms, Avila Beach, California (© Mimi Ditchie Photography/Getty Images)](https://cn.bing.com/th?id=OHR.AppleBlossoms_EN-US2396192691_UHD.jpg)  
 20260426 | [Galápagos penguins swimming, Galápagos Islands, Ecuador (© Henley Spiers/Nature Picture Library)](https://cn.bing.com/th?id=OHR.GalapagosPenguins_EN-US2287809863_UHD.jpg)  
 20260425 | [Forest hammock of slash pine and saw palmetto, Everglades National Park, Florida (© Mary Liz Austin/Alamy)](https://cn.bing.com/th?id=OHR.SlashPine_EN-US2059787604_UHD.jpg)  
 20260424 | [Anne Hathaway's cottage and garden, Stratford-upon-Avon, England (© David Steele/Shutterstock)](https://cn.bing.com/th?id=OHR.HathawayCottage_EN-US1795877015_UHD.jpg)  
