@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20260429 | [Spectacled bear resting in tree, Ecuador (© Andy Rouse/Nature Picture Library)](https://cn.bing.com/th?id=OHR.AndeanBear_EN-US2465945308_UHD.jpg)  
 20260428 | [The glass dome of Galleria Vittorio Emanuele II, Milan, Italy (© PhillipMinnis/Getty Images)](https://cn.bing.com/th?id=OHR.MilanGalleria_EN-US2432086382_UHD.jpg)  
 20260427 | [Pink apple blossoms, Avila Beach, California (© Mimi Ditchie Photography/Getty Images)](https://cn.bing.com/th?id=OHR.AppleBlossoms_EN-US2396192691_UHD.jpg)  
 20260426 | [Galápagos penguins swimming, Galápagos Islands, Ecuador (© Henley Spiers/Nature Picture Library)](https://cn.bing.com/th?id=OHR.GalapagosPenguins_EN-US2287809863_UHD.jpg)  
