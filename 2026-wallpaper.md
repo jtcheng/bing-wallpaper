@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20260515 | [Medieval town of Pitigliano, Tuscany, Italy (© bluejayphoto/Getty Images Plus)](https://cn.bing.com/th?id=OHR.Pitigliano_EN-US1208308627_UHD.jpg)  
 20260514 | [Arch and Milky Way, Alabama Hills, Sierra Nevada, California (© Tim Fitzharris/Minden Pictures)](https://cn.bing.com/th?id=OHR.AlabamaHills_EN-US1154221052_UHD.jpg)  
 20260513 | [Atlantic puffins, Wales (© FLPA/Alamy)](https://cn.bing.com/th?id=OHR.Fratercula_EN-US1020898539_UHD.jpg)  
 20260512 | [Great Barrier Reef from above, Queensland, Australia (© Francesco Riccardo Iacomino/Getty Images)](https://cn.bing.com/th?id=OHR.QueenslandReef_EN-US0977236952_UHD.jpg)  
