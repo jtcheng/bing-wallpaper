@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20260616 | [Great Smoky Mountains National Park, Tennessee (© Mint Images/Getty Images)](https://cn.bing.com/th?id=OHR.ParkEstd_EN-US6114949122_UHD.jpg)  
 20260615 | [US flags surrounding the Washington Monument, Washington, DC  (© Orhan Cam/Shutterstock)](https://cn.bing.com/th?id=OHR.FlagsMonument_EN-US6034154869_UHD.jpg)  
 20260614 | [Sunset in Badlands National Park, South Dakota, USA (© Troy Harrison/Getty Images)](https://cn.bing.com/th?id=OHR.BadSunset_EN-US5981956630_UHD.jpg)  
 20260613 | [European bee-eater, Sierra de Grazalema Natural Park, Cádiz, Spain (© Andres M. Dominguez/Nature Picture Library)](https://cn.bing.com/th?id=OHR.SpainBeeEater_EN-US5920719155_UHD.jpg)  
