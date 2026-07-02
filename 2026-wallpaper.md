@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20260702 | [Dungeon Provincial Park, Newfoundland and Labrador, Canada (© Kaitlyn McLachlan/Getty Images)](https://cn.bing.com/th?id=OHR.DungeonPark_EN-US2499621341_UHD.jpg)  
 20260701 | [Giraffes at sunset in the Masai Mara National Reserve, Kenya (© danm/Getty Images)](https://cn.bing.com/th?id=OHR.MasaiGiraffe_EN-US2240704874_UHD.jpg)  
 20260630 | [Bora Bora and its lagoon, South Pacific, French Polynesia (© Frederick Millett/Shutterstock)](https://cn.bing.com/th?id=OHR.BoraBoraLagoon_EN-US1491116478_UHD.jpg)  
 20260629 | [Saguaro cacti near Windgate Pass, McDowell Range, Arizona, USA (© Eric Mischke/Getty Images)](https://cn.bing.com/th?id=OHR.SaguaroSun_EN-US8982109543_UHD.jpg)  
