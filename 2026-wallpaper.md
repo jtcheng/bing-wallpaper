@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20260707 | [Syracuse at sunset, Sicily, Italy (© Balate Dorin/Getty Images)](https://cn.bing.com/th?id=OHR.SyracuseItaly_EN-US3071727282_UHD.jpg)  
 20260706 | [Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)](https://cn.bing.com/th?id=OHR.LavenderRows_EN-US2831933520_UHD.jpg)  
 20260705 | [Liberty Bell and Independence Hall, Independence National Historical Park, Philadelphia, Pennsylvania (© f11photo/Shutterstock)](https://cn.bing.com/th?id=OHR.LibertyHall_EN-US2562041614_UHD.jpg)  
 20260704 | [Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)](https://cn.bing.com/th?id=OHR.FirefliesJapan_EN-US2315956275_UHD.jpg)  
