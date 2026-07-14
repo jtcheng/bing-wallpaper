@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20260714 | [Antelope Canyon on the Navajo Nation, east of Page, Arizona (© Mark Skalny/Getty Images)](https://cn.bing.com/th?id=OHR.NavajoSandstone_EN-US9496264383_UHD.jpg)  
 20260713 | [Katahdin Woods and Waters National Monument, Maine (© Cavan Images/Offset/Shutterstock)](https://cn.bing.com/th?id=OHR.KatahdinWWNM_EN-US8982810797_UHD.jpg)  
 20260712 | [Port de Saint-Goustan, Auray, Brittany, France (© Rolf E. Staerk/Shutterstock)](https://cn.bing.com/th?id=OHR.AurayBrittany_EN-US7890619884_UHD.jpg)  
 20260711 | [Aerial view of land and ocean, Victoria, Australia (© Nearmap/Getty Images)](https://cn.bing.com/th?id=OHR.VictoriaBeach_EN-US7607379912_UHD.jpg)  
