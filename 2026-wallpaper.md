@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20260802 | [A series of lava flows spill into the ocean, Big Island, Hawaii (© Ken McCurdy/Getty Images)](https://cn.bing.com/th?id=OHR.HawaiiLava_EN-US4126737972_UHD.jpg)  
 20260801 | [Aerial view of the Virginia Creeper Trail, Damascus, Virginia (© Eifel Kreutz/Getty Images)](https://cn.bing.com/th?id=OHR.VirginiaTrail_EN-US9403114082_UHD.jpg)  
 20260731 | [Monument Valley, Navajo Nation, Arizona (© Westend61/Adobe Stock)](https://cn.bing.com/th?id=OHR.NavajoNation_EN-US6947714656_UHD.jpg)  
 20260730 | [A family of Bengal tigers at Ranthambore National Park, Rajasthan, India (© Archna Singh/Shutterstock)](https://cn.bing.com/th?id=OHR.TigerFamily_EN-US4918106900_UHD.jpg)  
