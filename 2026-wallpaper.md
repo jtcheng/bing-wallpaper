@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20260805 | [Florida burrowing owlet, Cape Coral, Florida, USA (© mlorenzphotography/Getty Images)](https://cn.bing.com/th?id=OHR.AdorableOwlet_EN-US7873975586_UHD.jpg)  
 20260804 | [Colorful boats in Marsaxlokk Harbor, Malta (© Klubovy/Getty Images)](https://cn.bing.com/th?id=OHR.BoatsMalta_EN-US5373607495_UHD.jpg)  
 20260803 | [Helsinki's shoreline during blue hour, Uusimaa, Finland (© Miemo Penttinen/Getty Images)](https://cn.bing.com/th?id=OHR.HelsinkiBlue_EN-US4898215906_UHD.jpg)  
 20260802 | [A series of lava flows spill into the ocean, Big Island, Hawaii (© Ken McCurdy/Getty Images)](https://cn.bing.com/th?id=OHR.HawaiiLava_EN-US4126737972_UHD.jpg)  
