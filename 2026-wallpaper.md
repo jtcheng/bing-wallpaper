@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20260807 | [Migrating wildebeest crossing Mara River in Masai Mara, Kenya (© Manoj Shah/Getty Images)](https://cn.bing.com/th?id=OHR.MaraCrossing_EN-US8682968377_UHD.jpg)  
 20260806 | [Decorated gate of the Royal Palace of Fez, Morocco (© cgst26/Shutterstock)](https://cn.bing.com/th?id=OHR.FezMorocco_EN-US8380353742_UHD.jpg)  
 20260805 | [Florida burrowing owlet, Cape Coral, Florida, USA (© mlorenzphotography/Getty Images)](https://cn.bing.com/th?id=OHR.AdorableOwlet_EN-US7873975586_UHD.jpg)  
 20260804 | [Colorful boats in Marsaxlokk Harbor, Malta (© Klubovy/Getty Images)](https://cn.bing.com/th?id=OHR.BoatsMalta_EN-US5373607495_UHD.jpg)  
