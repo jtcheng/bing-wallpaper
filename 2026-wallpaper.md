@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20260810 | [Jean-Marie Tjibaou Cultural Centre, New Caledonia (© Fabien Astre/Alamy)](https://cn.bing.com/th?id=OHR.JMTjibaou_EN-US3454380257_UHD.jpg)  
 20260809 | [Infinity Bridge in Stockton-on-Tees, England (© Bahadir Yeniceri/Shutterstock)](https://cn.bing.com/th?id=OHR.StocktonInfinity_EN-US3006724421_UHD.jpg)  
 20260808 | [Lime Kiln Lighthouse on San Juan Island, Washington State (© Edmund Lowe Photography/Shutterstock)](https://cn.bing.com/th?id=OHR.LimeKiln_EN-US2748515593_UHD.jpg)  
 20260807 | [Migrating wildebeest crossing Mara River in Masai Mara, Kenya (© Manoj Shah/Getty Images)](https://cn.bing.com/th?id=OHR.MaraCrossing_EN-US8682968377_UHD.jpg)  
