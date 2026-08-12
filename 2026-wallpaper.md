@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20260812 | [Colorful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)](https://cn.bing.com/th?id=OHR.ColorfulCop_EN-US3993977654_UHD.jpg)  
 20260811 | [Joshua Tree National Park, California (© JJ Landscapes/Getty Images)](https://cn.bing.com/th?id=OHR.SandPath_EN-US3759872156_UHD.jpg)  
 20260810 | [Jean-Marie Tjibaou Cultural Centre, New Caledonia (© Fabien Astre/Alamy)](https://cn.bing.com/th?id=OHR.JMTjibaou_EN-US3454380257_UHD.jpg)  
 20260809 | [Infinity Bridge in Stockton-on-Tees, England (© Bahadir Yeniceri/Shutterstock)](https://cn.bing.com/th?id=OHR.StocktonInfinity_EN-US3006724421_UHD.jpg)  
