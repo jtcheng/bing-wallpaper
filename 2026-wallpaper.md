@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20260816 | [Hoodoos in Ah Shi Sle Pah Wilderness in San Juan County, New Mexico (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.ValleyDreams_EN-US5250331985_UHD.jpg)  
 20260815 | [Aerial view of a wildlife crossing near Zakrzów, Poland (© bbsferrari/Getty Images)](https://cn.bing.com/th?id=OHR.WildlifeCrossingPoland_EN-US5004733603_UHD.jpg)  
 20260814 | [Perseid meteors over Teide Observatory, Tenerife, Spain (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.PerseidasTenerife_EN-US4798593153_UHD.jpg)  
 20260813 | [A group of elephants, Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)](https://cn.bing.com/th?id=OHR.ElephantDay_EN-US4280370948_UHD.jpg)  
