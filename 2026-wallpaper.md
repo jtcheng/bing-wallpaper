@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20260921 | [Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)](https://cn.bing.com/th?id=OHR.ParisSunset_EN-US6532307523_UHD.jpg)  
 20260920 | [Alphorn players, Bavaria, Germany (© U. J. Alexander/Shutterstock)](https://cn.bing.com/th?id=OHR.AlphornBavaria_EN-US6200857270_UHD.jpg)  
 20260919 | [Winnats Pass, Peak District National Park, England (© Daniel_Kay/Getty Images)](https://cn.bing.com/th?id=OHR.WinnatsPassPeak_EN-US6112068451_UHD.jpg)  
 20260918 | [Sorine windmill and vineyards, Santenay wine region, Côte de Beaune, Burgundy, France (© Marco Bottigelli/Getty Images)](https://cn.bing.com/th?id=OHR.Santenay_EN-US5299702509_UHD.jpg)  
