@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20261102 | [Handmade baskets, Santa Fe, New Mexico (© Patrick Lane/Getty Images)](https://cn.bing.com/th?id=OHR.NativeBaskets_EN-US0205712064_UHD.jpg)  
 20261031 | [Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)](https://cn.bing.com/th?id=OHR.AutumnCranes_EN-US9795571462_UHD.jpg)  
 20261030 | [Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images)](https://cn.bing.com/th?id=OHR.AveburyStones_EN-US9568662876_UHD.jpg)  
 20261029 | [Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy)](https://cn.bing.com/th?id=OHR.KuneticeCastle_EN-US9492527404_UHD.jpg)  
