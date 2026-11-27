@@ -1,4 +1,5 @@
 ## Bing Wallpaper
+20261128 | [Butte at sunset, Face Canyon, Lake Powell, Utah (© Jeff Foott/Minden)](https://cn.bing.com/th?id=OHR.FaceCanyon_EN-US6254374163_UHD.jpg)  
 20261127 | [Two wild tom turkeys (© davidsdodd/Getty Images)](https://cn.bing.com/th?id=OHR.WildTom_EN-US1069249609_UHD.jpg)  
 20261126 | [Sunset Point, Bryce Canyon National Park, Utah (© Colin D. Young/Alamy)](https://cn.bing.com/th?id=OHR.SunsetPoint_EN-US0827880440_UHD.jpg)  
 20261125 | [Red squirrel in Cairngorms National Park, Highlands, Scotland (© Scotland: The Big Picture/Minden Pictures)](https://cn.bing.com/th?id=OHR.CairngormsSquirrel_EN-US7053432564_UHD.jpg)  
